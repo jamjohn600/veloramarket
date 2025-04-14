@@ -1,0 +1,305 @@
+[22-Sep-2024 07:55:08 UTC] Invalid webhook signature. Expected: c22e5a18ca98b20df3611f2b54b67917bd7afdbee72f28943f2a55a49bf70fb1, Received: Medipool#1.
+[22-Sep-2024 07:58:36 UTC] Invalid webhook signature. Expected: f2d184ce5cd1be1372bb7a404cd955ea3dfe465d14becad540386034680bf0d1, Received: Medipool#1.
+[22-Sep-2024 08:10:47 UTC] Invalid webhook signature. Expected: b7610e905070c8cff635001f584d41012ada1a5e958a49426a35ecaac4a8adc3, Received: Medipool#1.
+[22-Sep-2024 08:16:30 UTC] Invalid webhook signature. Expected: 8719730f474635801a2dc75f349f680176f375d91501887da2dd7ec3e9a8199a, Received: Medipool#1.
+[22-Sep-2024 08:22:19 UTC] Invalid webhook signature. Expected: f021b73a156d9c903b1dde28326712422d70989731e049123c14efc0e5bbdb79, Received: Medipool#1.
+[22-Sep-2024 08:25:11 UTC] Invalid webhook signature. Expected: c22e5a18ca98b20df3611f2b54b67917bd7afdbee72f28943f2a55a49bf70fb1, Received: Medipool#1.
+[22-Sep-2024 08:28:38 UTC] Invalid webhook signature. Expected: a9a58f1dc4d74d07d44b59f821ea1e0fdacdbf2de947e986fda7a96d8d40f270, Received: Medipool#1.
+[22-Sep-2024 08:40:49 UTC] Invalid webhook signature. Expected: 5f5279821236877e36d924bbe08dba11761b7ad8a105f4d049aa4e845752a563, Received: Medipool#1.
+[22-Sep-2024 08:46:32 UTC] Invalid webhook signature. Expected: 2f690fded34c2fac520d6b446822e50db29bfe284e0c9eb5b3922df9af18e7ac, Received: Medipool#1.
+[22-Sep-2024 08:52:20 UTC] Invalid webhook signature. Expected: f92459c4e625ac88175c2053432f03cda999fb101ea865522cffecb31c2c193a, Received: Medipool#1.
+[22-Sep-2024 08:55:13 UTC] Invalid webhook signature. Expected: b7eb7bee683e6c9b6d516b00dfb8813ec64b715d8f3999ad7d1a04bfb780aaf0, Received: Medipool#1.
+[22-Sep-2024 08:58:39 UTC] Invalid webhook signature. Expected: a9a58f1dc4d74d07d44b59f821ea1e0fdacdbf2de947e986fda7a96d8d40f270, Received: Medipool#1.
+[22-Sep-2024 09:10:50 UTC] Invalid webhook signature. Expected: 5f5279821236877e36d924bbe08dba11761b7ad8a105f4d049aa4e845752a563, Received: Medipool#1.
+[22-Sep-2024 09:16:33 UTC] Invalid webhook signature. Expected: 2f690fded34c2fac520d6b446822e50db29bfe284e0c9eb5b3922df9af18e7ac, Received: Medipool#1.
+[22-Sep-2024 09:22:22 UTC] Invalid webhook signature. Expected: f92459c4e625ac88175c2053432f03cda999fb101ea865522cffecb31c2c193a, Received: Medipool#1.
+[22-Sep-2024 09:25:14 UTC] Invalid webhook signature. Expected: b7eb7bee683e6c9b6d516b00dfb8813ec64b715d8f3999ad7d1a04bfb780aaf0, Received: Medipool#1.
+[22-Sep-2024 09:28:40 UTC] Invalid webhook signature. Expected: a9a58f1dc4d74d07d44b59f821ea1e0fdacdbf2de947e986fda7a96d8d40f270, Received: Medipool#1.
+[22-Sep-2024 09:40:52 UTC] Invalid webhook signature. Expected: 5f5279821236877e36d924bbe08dba11761b7ad8a105f4d049aa4e845752a563, Received: Medipool#1.
+[22-Sep-2024 09:46:34 UTC] Invalid webhook signature. Expected: 2f690fded34c2fac520d6b446822e50db29bfe284e0c9eb5b3922df9af18e7ac, Received: Medipool#1.
+[22-Sep-2024 09:52:23 UTC] Invalid webhook signature. Expected: f92459c4e625ac88175c2053432f03cda999fb101ea865522cffecb31c2c193a, Received: Medipool#1.
+[22-Sep-2024 09:55:15 UTC] Invalid webhook signature. Expected: b7eb7bee683e6c9b6d516b00dfb8813ec64b715d8f3999ad7d1a04bfb780aaf0, Received: Medipool#1.
+[22-Sep-2024 09:58:41 UTC] Invalid webhook signature. Expected: a9a58f1dc4d74d07d44b59f821ea1e0fdacdbf2de947e986fda7a96d8d40f270, Received: Medipool#1.
+[22-Sep-2024 10:10:53 UTC] Invalid webhook signature. Expected: 5f5279821236877e36d924bbe08dba11761b7ad8a105f4d049aa4e845752a563, Received: Medipool#1.
+[22-Sep-2024 10:16:35 UTC] Invalid webhook signature. Expected: 2f690fded34c2fac520d6b446822e50db29bfe284e0c9eb5b3922df9af18e7ac, Received: Medipool#1.
+[22-Sep-2024 10:22:24 UTC] Invalid webhook signature. Expected: f92459c4e625ac88175c2053432f03cda999fb101ea865522cffecb31c2c193a, Received: Medipool#1.
+[22-Sep-2024 10:25:17 UTC] Invalid webhook signature. Expected: b7eb7bee683e6c9b6d516b00dfb8813ec64b715d8f3999ad7d1a04bfb780aaf0, Received: Medipool#1.
+[22-Sep-2024 11:32:49 UTC] PHP Deprecated:  DateTime::__construct(): Passing null to parameter #1 ($datetime) of type string is deprecated in /home/nexustr2/public_html/model/send_email_verification.php on line 41
+[03-Oct-2024 20:34:43 UTC] PHP Deprecated:  DateTime::__construct(): Passing null to parameter #1 ($datetime) of type string is deprecated in /home/nexustr2/public_html/model/send_email_verification.php on line 41
+[03-Oct-2024 22:14:01 UTC] PHP Warning:  Undefined array key "email" in /home/nexustr2/public_html/model/login.php on line 78
+[03-Oct-2024 22:14:01 UTC] PHP Deprecated:  strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in /home/nexustr2/public_html/model/my_fns.php on line 41
+[03-Oct-2024 22:14:01 UTC] PHP Warning:  Undefined array key "password" in /home/nexustr2/public_html/model/login.php on line 79
+[03-Oct-2024 22:14:01 UTC] PHP Deprecated:  strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in /home/nexustr2/public_html/model/my_fns.php on line 41
+[03-Oct-2024 22:14:35 UTC] PHP Warning:  Undefined array key "email" in /home/nexustr2/public_html/model/login.php on line 78
+[03-Oct-2024 22:14:35 UTC] PHP Deprecated:  strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in /home/nexustr2/public_html/model/my_fns.php on line 41
+[03-Oct-2024 22:14:35 UTC] PHP Warning:  Undefined array key "password" in /home/nexustr2/public_html/model/login.php on line 79
+[03-Oct-2024 22:14:35 UTC] PHP Deprecated:  strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in /home/nexustr2/public_html/model/my_fns.php on line 41
+[04-Oct-2024 06:18:48 UTC] Invalid webhook signature. Expected: 479c161e9251e7fd4f71b3e6c186665a8a3527d88b5a9d969ca715a34660b13b, Received: Medipool#1.
+[04-Oct-2024 07:17:16 UTC] Invalid webhook signature. Expected: 479c161e9251e7fd4f71b3e6c186665a8a3527d88b5a9d969ca715a34660b13b, Received: Medipool#1.
+[04-Oct-2024 07:47:17 UTC] Invalid webhook signature. Expected: 66a9d1d4a3052fce281b600e21350f09b99d2c6bfacd31b57be3d55202a233cc, Received: Medipool#1.
+[04-Oct-2024 08:17:18 UTC] Invalid webhook signature. Expected: 66a9d1d4a3052fce281b600e21350f09b99d2c6bfacd31b57be3d55202a233cc, Received: Medipool#1.
+[04-Oct-2024 08:47:19 UTC] Invalid webhook signature. Expected: 66a9d1d4a3052fce281b600e21350f09b99d2c6bfacd31b57be3d55202a233cc, Received: Medipool#1.
+[04-Oct-2024 09:17:20 UTC] Invalid webhook signature. Expected: 66a9d1d4a3052fce281b600e21350f09b99d2c6bfacd31b57be3d55202a233cc, Received: Medipool#1.
+[04-Oct-2024 12:29:03 UTC] PHP Deprecated:  DateTime::__construct(): Passing null to parameter #1 ($datetime) of type string is deprecated in /home/nexustr2/public_html/model/send_email_verification.php on line 41
+[05-Oct-2024 07:56:00 UTC] PHP Deprecated:  DateTime::__construct(): Passing null to parameter #1 ($datetime) of type string is deprecated in /home/nexustr2/public_html/model/send_email_verification.php on line 41
+[05-Oct-2024 09:56:06 UTC] PHP Deprecated:  DateTime::__construct(): Passing null to parameter #1 ($datetime) of type string is deprecated in /home/nexustr2/public_html/model/send_email_verification.php on line 41
+[07-Oct-2024 20:04:58 UTC] PHP Deprecated:  DateTime::__construct(): Passing null to parameter #1 ($datetime) of type string is deprecated in /home/nexustr2/public_html/model/send_email_verification.php on line 41
+[08-Oct-2024 22:40:57 UTC] PHP Fatal error:  Cannot redeclare validateRecipient() (previously declared in /home/nexustr2/public_html/model/initiate_bitcoin.php:56) in /home/nexustr2/public_html/model/my_fns.php on line 294
+[08-Oct-2024 22:41:11 UTC] PHP Fatal error:  Cannot redeclare validateRecipient() (previously declared in /home/nexustr2/public_html/model/initiate_bitcoin.php:56) in /home/nexustr2/public_html/model/my_fns.php on line 294
+[08-Oct-2024 22:43:14 UTC] PHP Fatal error:  Cannot redeclare validateRecipient() (previously declared in /home/nexustr2/public_html/model/initiate_bitcoin.php:56) in /home/nexustr2/public_html/model/my_fns.php on line 294
+[08-Oct-2024 22:46:44 UTC] PHP Warning:  Undefined array key "f854aebae95150b379cc1187d848d58225f3c4157fe992bcd166f58bd5063449" in /home/nexustr2/public_html/model/initiate_bitcoin.php on line 78
+[08-Oct-2024 22:46:44 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nexustr2/public_html/model/initiate_bitcoin.php on line 78
+[08-Oct-2024 22:46:44 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/nexustr2/public_html/model/initiate_bitcoin.php on line 78
+[08-Oct-2024 22:55:37 UTC] PHP Fatal error:  Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, string given in /home/nexustr2/public_html/model/initiate_bitcoin.php:79
+Stack trace:
+#0 /home/nexustr2/public_html/model/initiate_bitcoin.php(79): in_array('1N2f642sbgCMbNt...', '1N2f642sbgCMbNt...')
+#1 /home/nexustr2/public_html/model/initiate_bitcoin.php(91): validateRecipient('f854aebae95150b...', '1N2f642sbgCMbNt...', 70320221545)
+#2 {main}
+  thrown in /home/nexustr2/public_html/model/initiate_bitcoin.php on line 79
+[08-Oct-2024 22:56:58 UTC] PHP Fatal error:  Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, string given in /home/nexustr2/public_html/model/initiate_bitcoin.php:79
+Stack trace:
+#0 /home/nexustr2/public_html/model/initiate_bitcoin.php(79): in_array('1N2f642sbgCMbNt...', '1N2f642sbgCMbNt...')
+#1 /home/nexustr2/public_html/model/initiate_bitcoin.php(91): validateRecipient('f854aebae95150b...', '1N2f642sbgCMbNt...', 70320221545)
+#2 {main}
+  thrown in /home/nexustr2/public_html/model/initiate_bitcoin.php on line 79
+[08-Oct-2024 23:30:46 UTC] PHP Warning:  Undefined variable $depositAmount in /home/nexustr2/public_html/model/initiate_bitcoin.php on line 79
+[08-Oct-2024 23:30:46 UTC] PHP Warning:  Undefined variable $username in /home/nexustr2/public_html/model/initiate_bitcoin.php on line 79
+[08-Oct-2024 23:30:46 UTC] PHP Warning:  Undefined variable $pdo in /home/nexustr2/public_html/model/initiate_bitcoin.php on line 102
+[08-Oct-2024 23:30:46 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/nexustr2/public_html/model/initiate_bitcoin.php:102
+Stack trace:
+#0 /home/nexustr2/public_html/model/initiate_bitcoin.php(79): updatePaymentStatus(NULL, NULL, 70320221545, 70320221545)
+#1 /home/nexustr2/public_html/model/initiate_bitcoin.php(97): validateRecipient('f854aebae95150b...', '1N2f642sbgCMbNt...', 70320221545)
+#2 {main}
+  thrown in /home/nexustr2/public_html/model/initiate_bitcoin.php on line 102
+[08-Oct-2024 23:31:04 UTC] PHP Warning:  Undefined variable $depositAmount in /home/nexustr2/public_html/model/initiate_bitcoin.php on line 79
+[08-Oct-2024 23:31:04 UTC] PHP Warning:  Undefined variable $username in /home/nexustr2/public_html/model/initiate_bitcoin.php on line 79
+[08-Oct-2024 23:31:04 UTC] PHP Warning:  Undefined variable $pdo in /home/nexustr2/public_html/model/initiate_bitcoin.php on line 102
+[08-Oct-2024 23:31:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/nexustr2/public_html/model/initiate_bitcoin.php:102
+Stack trace:
+#0 /home/nexustr2/public_html/model/initiate_bitcoin.php(79): updatePaymentStatus(NULL, NULL, 70320221545, 70320221545)
+#1 /home/nexustr2/public_html/model/initiate_bitcoin.php(97): validateRecipient('f854aebae95150b...', '1N2f642sbgCMbNt...', 70320221545)
+#2 {main}
+  thrown in /home/nexustr2/public_html/model/initiate_bitcoin.php on line 102
+[08-Oct-2024 23:33:08 UTC] PHP Warning:  Undefined variable $depositAmount in /home/nexustr2/public_html/model/initiate_bitcoin.php on line 79
+[08-Oct-2024 23:33:08 UTC] PHP Warning:  Undefined variable $username in /home/nexustr2/public_html/model/initiate_bitcoin.php on line 79
+[08-Oct-2024 23:33:08 UTC] PHP Warning:  Undefined variable $pdo in /home/nexustr2/public_html/model/initiate_bitcoin.php on line 103
+[08-Oct-2024 23:33:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/nexustr2/public_html/model/initiate_bitcoin.php:103
+Stack trace:
+#0 /home/nexustr2/public_html/model/initiate_bitcoin.php(79): updatePaymentStatus(NULL, NULL, 70320221545, 70320221545)
+#1 /home/nexustr2/public_html/model/initiate_bitcoin.php(97): validateRecipient('f854aebae95150b...', '1N2f642sbgCMbNt...', 70320221545)
+#2 {main}
+  thrown in /home/nexustr2/public_html/model/initiate_bitcoin.php on line 103
+[08-Oct-2024 23:36:31 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nexustr2/public_html/model/initiate_bitcoin.php on line 45
+[08-Oct-2024 23:37:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nexustr2/public_html/model/initiate_bitcoin.php on line 45
+[08-Oct-2024 23:38:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nexustr2/public_html/model/initiate_bitcoin.php on line 45
+[08-Oct-2024 23:40:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nexustr2/public_html/model/initiate_bitcoin.php on line 45
+[08-Oct-2024 23:44:39 UTC] PHP Warning:  Undefined variable $depositAmount in /home/nexustr2/public_html/model/initiate_bitcoin.php on line 81
+[08-Oct-2024 23:44:39 UTC] PHP Warning:  Undefined variable $username in /home/nexustr2/public_html/model/initiate_bitcoin.php on line 81
+[08-Oct-2024 23:44:39 UTC] PHP Warning:  Undefined variable $pdo in /home/nexustr2/public_html/model/initiate_bitcoin.php on line 105
+[08-Oct-2024 23:44:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/nexustr2/public_html/model/initiate_bitcoin.php:105
+Stack trace:
+#0 /home/nexustr2/public_html/model/initiate_bitcoin.php(81): updatePaymentStatus(NULL, NULL, 70320221545, 70320221545)
+#1 /home/nexustr2/public_html/model/initiate_bitcoin.php(99): validateRecipient('f854aebae95150b...', '1N2f642sbgCMbNt...', 70320221545)
+#2 {main}
+  thrown in /home/nexustr2/public_html/model/initiate_bitcoin.php on line 105
+[08-Oct-2024 23:46:23 UTC] PHP Warning:  Undefined variable $depositAmount in /home/nexustr2/public_html/model/initiate_bitcoin.php on line 81
+[08-Oct-2024 23:46:23 UTC] PHP Warning:  Undefined variable $username in /home/nexustr2/public_html/model/initiate_bitcoin.php on line 81
+[08-Oct-2024 23:46:23 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'wallet_id' cannot be null in /home/nexustr2/public_html/model/my_fns.php:284
+Stack trace:
+#0 /home/nexustr2/public_html/model/my_fns.php(284): PDOStatement->execute()
+#1 /home/nexustr2/public_html/model/initiate_bitcoin.php(81): updatePaymentStatus(NULL, NULL, '70320221545', '70320221545')
+#2 /home/nexustr2/public_html/model/initiate_bitcoin.php(99): validateRecipient('f854aebae95150b...', '1N2f642sbgCMbNt...', 70320221545)
+#3 {main}
+  thrown in /home/nexustr2/public_html/model/my_fns.php on line 284
+[08-Oct-2024 23:47:19 UTC] PHP Warning:  Undefined variable $depositAmount in /home/nexustr2/public_html/model/initiate_bitcoin.php on line 81
+[08-Oct-2024 23:47:19 UTC] PHP Warning:  Undefined variable $username in /home/nexustr2/public_html/model/initiate_bitcoin.php on line 81
+[08-Oct-2024 23:47:19 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'wallet_id' cannot be null in /home/nexustr2/public_html/model/my_fns.php:284
+Stack trace:
+#0 /home/nexustr2/public_html/model/my_fns.php(284): PDOStatement->execute()
+#1 /home/nexustr2/public_html/model/initiate_bitcoin.php(81): updatePaymentStatus(NULL, NULL, '70320221545', '70320221545')
+#2 /home/nexustr2/public_html/model/initiate_bitcoin.php(99): validateRecipient('f854aebae95150b...', '1N2f642sbgCMbNt...', 70320221545)
+#3 {main}
+  thrown in /home/nexustr2/public_html/model/my_fns.php on line 284
+[08-Oct-2024 23:51:26 UTC] PHP Warning:  Undefined variable $depositAmount in /home/nexustr2/public_html/model/initiate_bitcoin.php on line 86
+[08-Oct-2024 23:51:26 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'wallet_id' cannot be null in /home/nexustr2/public_html/model/my_fns.php:284
+Stack trace:
+#0 /home/nexustr2/public_html/model/my_fns.php(284): PDOStatement->execute()
+#1 /home/nexustr2/public_html/model/initiate_bitcoin.php(86): updatePaymentStatus(NULL, 'Gian', '70320221545', '70320221545')
+#2 /home/nexustr2/public_html/model/initiate_bitcoin.php(49): validateRecipient('f854aebae95150b...', '1N2f642sbgCMbNt...', 70320221545, 'Gian')
+#3 {main}
+  thrown in /home/nexustr2/public_html/model/my_fns.php on line 284
+[08-Oct-2024 23:56:30 UTC] PHP Warning:  Undefined variable $depositAmount in /home/nexustr2/public_html/model/initiate_bitcoin.php on line 86
+[09-Oct-2024 08:49:52 UTC] PHP Deprecated:  DateTime::__construct(): Passing null to parameter #1 ($datetime) of type string is deprecated in /home/nexustr2/public_html/model/send_email_verification.php on line 41
+[09-Oct-2024 14:11:42 UTC] PHP Warning:  Undefined variable $depositAmount in /home/nexustr2/public_html/model/initiate_bitcoin.php on line 87
+[09-Oct-2024 17:18:28 UTC] PHP Warning:  Undefined variable $depositAmount in /home/nexustr2/public_html/model/initiate_bitcoin.php on line 87
+[09-Oct-2024 17:19:12 UTC] PHP Warning:  Undefined variable $depositAmount in /home/nexustr2/public_html/model/initiate_bitcoin.php on line 87
+[09-Oct-2024 17:19:12 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'jamjohn5' for key 'wallets.PRIMARY' in /home/nexustr2/public_html/model/my_fns.php:284
+Stack trace:
+#0 /home/nexustr2/public_html/model/my_fns.php(284): PDOStatement->execute()
+#1 /home/nexustr2/public_html/model/initiate_bitcoin.php(87): updatePaymentStatus(NULL, 'jamjohn5', '1.1392743139938...', '1.1392743139938...')
+#2 /home/nexustr2/public_html/model/initiate_bitcoin.php(49): validateRecipient('f854aebae95150b...', '1N2f642sbgCMbNt...', 70320221545, 'jamjohn5')
+#3 {main}
+  thrown in /home/nexustr2/public_html/model/my_fns.php on line 284
+[09-Oct-2024 17:19:25 UTC] PHP Warning:  Undefined variable $depositAmount in /home/nexustr2/public_html/model/initiate_bitcoin.php on line 87
+[09-Oct-2024 17:19:25 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'jamjohn5' for key 'wallets.PRIMARY' in /home/nexustr2/public_html/model/my_fns.php:284
+Stack trace:
+#0 /home/nexustr2/public_html/model/my_fns.php(284): PDOStatement->execute()
+#1 /home/nexustr2/public_html/model/initiate_bitcoin.php(87): updatePaymentStatus(NULL, 'jamjohn5', '1.1392743139938...', '1.1392743139938...')
+#2 /home/nexustr2/public_html/model/initiate_bitcoin.php(49): validateRecipient('f854aebae95150b...', '1N2f642sbgCMbNt...', 70320221545, 'jamjohn5')
+#3 {main}
+  thrown in /home/nexustr2/public_html/model/my_fns.php on line 284
+[13-Oct-2024 12:59:35 UTC] PHP Deprecated:  DateTime::__construct(): Passing null to parameter #1 ($datetime) of type string is deprecated in /home/nexustr2/public_html/model/send_email_verification.php on line 41
+[16-Oct-2024 14:08:11 UTC] PHP Deprecated:  DateTime::__construct(): Passing null to parameter #1 ($datetime) of type string is deprecated in /home/nexustr2/public_html/model/send_email_verification.php on line 41
+[17-Oct-2024 17:18:25 UTC] PHP Warning:  Undefined variable $depositAmount in /home/nexustr2/public_html/model/initiate_bitcoin.php on line 87
+[17-Oct-2024 17:18:25 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'Gian' for key 'wallets.PRIMARY' in /home/nexustr2/public_html/model/my_fns.php:284
+Stack trace:
+#0 /home/nexustr2/public_html/model/my_fns.php(284): PDOStatement->execute()
+#1 /home/nexustr2/public_html/model/initiate_bitcoin.php(87): updatePaymentStatus(NULL, 'Gian', '825194426.17333', '825194426.17333')
+#2 /home/nexustr2/public_html/model/initiate_bitcoin.php(49): validateRecipient('c10eb29001d2b26...', 'bc1qynjvjxzxvaz...', 'Gian')
+#3 {main}
+  thrown in /home/nexustr2/public_html/model/my_fns.php on line 284
+[17-Oct-2024 17:32:23 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'Gian' for key 'wallets.PRIMARY' in /home/nexustr2/public_html/model/my_fns.php:284
+Stack trace:
+#0 /home/nexustr2/public_html/model/my_fns.php(284): PDOStatement->execute()
+#1 /home/nexustr2/public_html/model/initiate_bitcoin.php(87): updatePaymentStatus('825194426.17333', 'Gian', '825194426.17333', '825194426.17333')
+#2 /home/nexustr2/public_html/model/initiate_bitcoin.php(49): validateRecipient('c10eb29001d2b26...', 'bc1qynjvjxzxvaz...', 'Gian')
+#3 {main}
+  thrown in /home/nexustr2/public_html/model/my_fns.php on line 284
+[17-Oct-2024 17:32:46 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'Gian' for key 'wallets.PRIMARY' in /home/nexustr2/public_html/model/my_fns.php:284
+Stack trace:
+#0 /home/nexustr2/public_html/model/my_fns.php(284): PDOStatement->execute()
+#1 /home/nexustr2/public_html/model/initiate_bitcoin.php(87): updatePaymentStatus('825194426.17333', 'Gian', '825194426.17333', '825194426.17333')
+#2 /home/nexustr2/public_html/model/initiate_bitcoin.php(49): validateRecipient('c10eb29001d2b26...', 'bc1qynjvjxzxvaz...', 'Gian')
+#3 {main}
+  thrown in /home/nexustr2/public_html/model/my_fns.php on line 284
+[18-Oct-2024 11:54:51 UTC] PHP Warning:  Undefined variable $walletBalance in /home/nexustr2/public_html/model/my_fns.php on line 275
+[18-Oct-2024 11:54:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nexustr2/public_html/model/my_fns.php on line 275
+[18-Oct-2024 11:54:51 UTC] PHP Fatal error:  Uncaught Error: PDOStatement::bindParam(): Argument #2 ($var) cannot be passed by reference in /home/nexustr2/public_html/model/my_fns.php:289
+Stack trace:
+#0 /home/nexustr2/public_html/model/initiate_transfers.php(55): transferFunds('TX-67124c8b8786...', 'Gian', 'diegocosta', '')
+#1 {main}
+  thrown in /home/nexustr2/public_html/model/my_fns.php on line 289
+[18-Oct-2024 11:56:01 UTC] PHP Fatal error:  Uncaught Error: PDOStatement::bindParam(): Argument #2 ($var) cannot be passed by reference in /home/nexustr2/public_html/model/my_fns.php:289
+Stack trace:
+#0 /home/nexustr2/public_html/model/initiate_transfers.php(55): transferFunds('TX-67124cd18116...', 'Gian', 'diegocosta', '')
+#1 {main}
+  thrown in /home/nexustr2/public_html/model/my_fns.php on line 289
+[18-Oct-2024 12:03:20 UTC] PHP Fatal error:  Uncaught Error: PDOStatement::bindParam(): Argument #2 ($var) cannot be passed by reference in /home/nexustr2/public_html/model/my_fns.php:289
+Stack trace:
+#0 /home/nexustr2/public_html/model/initiate_transfers.php(55): transferFunds('TX-67124e88b7b5...', 'Gian', 'diegocosta', '')
+#1 {main}
+  thrown in /home/nexustr2/public_html/model/my_fns.php on line 289
+[18-Oct-2024 12:38:03 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/nexustr2/public_html/model/my_fns.php on line 281
+[18-Oct-2024 12:38:52 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/nexustr2/public_html/model/my_fns.php on line 282
+[18-Oct-2024 12:39:09 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/nexustr2/public_html/model/my_fns.php on line 282
+[18-Oct-2024 12:41:32 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/nexustr2/public_html/model/my_fns.php on line 282
+[18-Oct-2024 12:44:33 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/nexustr2/public_html/model/my_fns.php on line 282
+[18-Oct-2024 12:57:55 UTC] PHP Fatal error:  Cannot redeclare updatePaymentStatus() (previously declared in /home/nexustr2/public_html/model/my_fns.php:315) in /home/nexustr2/public_html/model/my_fns.php on line 351
+[18-Oct-2024 12:58:31 UTC] PHP Fatal error:  Cannot redeclare updatePaymentStatus() (previously declared in /home/nexustr2/public_html/model/my_fns.php:317) in /home/nexustr2/public_html/model/my_fns.php on line 353
+[18-Oct-2024 14:01:07 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/nexustr2/public_html/model/my_fns.php on line 282
+[18-Oct-2024 14:02:10 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/nexustr2/public_html/model/my_fns.php on line 282
+[27-Oct-2024 07:11:56 UTC] PHP Deprecated:  DateTime::__construct(): Passing null to parameter #1 ($datetime) of type string is deprecated in /home/nexustr2/public_html/model/send_email_verification.php on line 41
+[28-Oct-2024 18:56:31 UTC] PHP Deprecated:  DateTime::__construct(): Passing null to parameter #1 ($datetime) of type string is deprecated in /home/nexustr2/public_html/model/send_email_verification.php on line 41
+[03-Nov-2024 17:22:50 UTC] PHP Warning:  Undefined variable $to in /home/nexustr2/public_html/model/my_fns.php on line 287
+[03-Nov-2024 17:22:50 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/nexustr2/public_html/model/my_fns.php on line 295
+[10-Nov-2024 22:33:16 UTC] PHP Deprecated:  DateTime::__construct(): Passing null to parameter #1 ($datetime) of type string is deprecated in /home/nexustr2/public_html/model/send_email_verification.php on line 41
+[11-Nov-2024 14:44:08 UTC] PHP Deprecated:  DateTime::__construct(): Passing null to parameter #1 ($datetime) of type string is deprecated in /home/nexustr2/public_html/model/send_email_verification.php on line 41
+[24-Dec-2024 06:00:36 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'nexustr2_bitrader.user_bank_accounts' doesn't exist in /home/nexustr2/public_html/model/my_fns.php:248
+Stack trace:
+#0 /home/nexustr2/public_html/model/my_fns.php(248): PDOStatement->execute()
+#1 /home/nexustr2/public_html/model/initiate_withdrawal.php(55): get_user_recipient_code()
+#2 {main}
+  thrown in /home/nexustr2/public_html/model/my_fns.php on line 248
+[24-Dec-2024 06:03:44 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'nexustr2_bitrader.user_bank_accounts' doesn't exist in /home/nexustr2/public_html/model/my_fns.php:248
+Stack trace:
+#0 /home/nexustr2/public_html/model/my_fns.php(248): PDOStatement->execute()
+#1 /home/nexustr2/public_html/model/initiate_withdrawal.php(55): get_user_recipient_code()
+#2 {main}
+  thrown in /home/nexustr2/public_html/model/my_fns.php on line 248
+[24-Dec-2024 06:55:59 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'nexustr2_bitrader.user_bank_accounts' doesn't exist in /home/nexustr2/public_html/model/my_fns.php:248
+Stack trace:
+#0 /home/nexustr2/public_html/model/my_fns.php(248): PDOStatement->execute()
+#1 /home/nexustr2/public_html/model/initiate_withdrawal.php(55): get_user_recipient_code()
+#2 {main}
+  thrown in /home/nexustr2/public_html/model/my_fns.php on line 248
+[24-Dec-2024 06:56:04 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'nexustr2_bitrader.user_bank_accounts' doesn't exist in /home/nexustr2/public_html/model/my_fns.php:248
+Stack trace:
+#0 /home/nexustr2/public_html/model/my_fns.php(248): PDOStatement->execute()
+#1 /home/nexustr2/public_html/model/initiate_withdrawal.php(55): get_user_recipient_code()
+#2 {main}
+  thrown in /home/nexustr2/public_html/model/my_fns.php on line 248
+[24-Dec-2024 06:56:40 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'nexustr2_bitrader.user_bank_accounts' doesn't exist in /home/nexustr2/public_html/model/my_fns.php:248
+Stack trace:
+#0 /home/nexustr2/public_html/model/my_fns.php(248): PDOStatement->execute()
+#1 /home/nexustr2/public_html/model/initiate_withdrawal.php(55): get_user_recipient_code()
+#2 {main}
+  thrown in /home/nexustr2/public_html/model/my_fns.php on line 248
+[24-Dec-2024 06:57:27 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'nexustr2_bitrader.user_bank_accounts' doesn't exist in /home/nexustr2/public_html/model/my_fns.php:248
+Stack trace:
+#0 /home/nexustr2/public_html/model/my_fns.php(248): PDOStatement->execute()
+#1 /home/nexustr2/public_html/model/initiate_withdrawal.php(55): get_user_recipient_code()
+#2 {main}
+  thrown in /home/nexustr2/public_html/model/my_fns.php on line 248
+[24-Dec-2024 06:57:30 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'nexustr2_bitrader.user_bank_accounts' doesn't exist in /home/nexustr2/public_html/model/my_fns.php:248
+Stack trace:
+#0 /home/nexustr2/public_html/model/my_fns.php(248): PDOStatement->execute()
+#1 /home/nexustr2/public_html/model/initiate_withdrawal.php(55): get_user_recipient_code()
+#2 {main}
+  thrown in /home/nexustr2/public_html/model/my_fns.php on line 248
+[24-Dec-2024 10:53:26 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'nexustr2_bitrader.user_bank_accounts' doesn't exist in /home/nexustr2/public_html/model/my_fns.php:248
+Stack trace:
+#0 /home/nexustr2/public_html/model/my_fns.php(248): PDOStatement->execute()
+#1 /home/nexustr2/public_html/model/initiate_withdrawal.php(55): get_user_recipient_code()
+#2 {main}
+  thrown in /home/nexustr2/public_html/model/my_fns.php on line 248
+[24-Dec-2024 13:03:53 UTC] PHP Warning:  Undefined array key "user_id" in /home/nexustr2/public_html/model/initiate_withdrawal.php on line 28
+[24-Dec-2024 13:04:00 UTC] PHP Warning:  Undefined array key "user_id" in /home/nexustr2/public_html/model/initiate_withdrawal.php on line 28
+[24-Dec-2024 18:32:20 UTC] PHP Warning:  Undefined array key "user_id" in /home/nexustr2/public_html/model/initiate_withdrawal.php on line 28
+[25-Dec-2024 05:48:17 UTC] PHP Warning:  Undefined array key "user_id" in /home/nexustr2/public_html/model/initiate_withdrawal.php on line 28
+[25-Dec-2024 07:48:52 UTC] PHP Warning:  Undefined array key "user_id" in /home/nexustr2/public_html/model/initiate_withdrawal.php on line 28
+[26-Dec-2024 09:42:02 UTC] PHP Warning:  Undefined array key "user_id" in /home/nexustr2/public_html/model/initiate_withdrawal.php on line 28
+[28-Dec-2024 11:44:54 UTC] PHP Warning:  Undefined array key "user_id" in /home/nexustr2/public_html/model/initiate_withdrawal.php on line 28
+[30-Dec-2024 00:23:55 UTC] PHP Warning:  Undefined array key "user_id" in /home/nexustr2/public_html/model/initiate_withdrawal.php on line 28
+[03-Jan-2025 09:24:34 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/nexustr2/public_html/model/my_fns.php on line 182
+[03-Jan-2025 09:24:39 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/nexustr2/public_html/model/my_fns.php on line 182
+[03-Jan-2025 09:24:43 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/nexustr2/public_html/model/my_fns.php on line 182
+[03-Jan-2025 09:30:23 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/nexustr2/public_html/model/my_fns.php on line 182
+[03-Jan-2025 09:31:26 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/nexustr2/public_html/model/my_fns.php on line 182
+[04-Jan-2025 20:13:13 UTC] PHP Warning:  Undefined array key "user_id" in /home/nexustr2/public_html/model/initiate_withdrawal.php on line 28
+[06-Jan-2025 07:39:15 UTC] PHP Warning:  Undefined array key "user_id" in /home/nexustr2/public_html/model/initiate_withdrawal.php on line 28
+[07-Jan-2025 19:17:28 UTC] PHP Warning:  Undefined array key "user_id" in /home/nexustr2/public_html/model/initiate_withdrawal.php on line 28
+[08-Jan-2025 22:24:18 UTC] PHP Warning:  require_once(notifications.php): Failed to open stream: No such file or directory in /home/nexustr2/public_html/model/fetch_notifications.php on line 5
+[08-Jan-2025 22:24:18 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'notifications.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/nexustr2/public_html/model/fetch_notifications.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nexustr2/public_html/model/fetch_notifications.php on line 5
+[08-Jan-2025 22:24:48 UTC] PHP Warning:  require_once(notifications.php): Failed to open stream: No such file or directory in /home/nexustr2/public_html/model/fetch_notifications.php on line 5
+[08-Jan-2025 22:24:48 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'notifications.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/nexustr2/public_html/model/fetch_notifications.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nexustr2/public_html/model/fetch_notifications.php on line 5
+[08-Jan-2025 22:25:18 UTC] PHP Warning:  require_once(notifications.php): Failed to open stream: No such file or directory in /home/nexustr2/public_html/model/fetch_notifications.php on line 5
+[08-Jan-2025 22:25:18 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'notifications.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/nexustr2/public_html/model/fetch_notifications.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nexustr2/public_html/model/fetch_notifications.php on line 5
+[08-Jan-2025 22:25:49 UTC] PHP Warning:  require_once(notifications.php): Failed to open stream: No such file or directory in /home/nexustr2/public_html/model/fetch_notifications.php on line 5
+[08-Jan-2025 22:25:49 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'notifications.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/nexustr2/public_html/model/fetch_notifications.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nexustr2/public_html/model/fetch_notifications.php on line 5
+[10-Jan-2025 13:09:00 UTC] Database connection error: SQLSTATE[HY000] [2002] No such file or directory
+[10-Jan-2025 13:09:01 UTC] Database connection error: SQLSTATE[HY000] [2002] No such file or directory
+[10-Jan-2025 13:09:04 UTC] Database connection error: SQLSTATE[HY000] [2002] No such file or directory
+[10-Jan-2025 13:09:06 UTC] Database connection error: SQLSTATE[HY000] [2002] No such file or directory
+[12-Jan-2025 12:18:06 UTC] Flutterwave API Error: {"status":false,"message":"Watch your spending. Amount cannot be processed online","meta":{"nextStep":"Reduce the amount you're attempting to charge the customer"},"type":"validation_error","code":"amount_exceed_limit"}
+[12-Jan-2025 12:18:16 UTC] Flutterwave API Error: {"status":false,"message":"Watch your spending. Amount cannot be processed online","meta":{"nextStep":"Reduce the amount you're attempting to charge the customer"},"type":"validation_error","code":"amount_exceed_limit"}
+[12-Jan-2025 12:18:22 UTC] Flutterwave API Error: {"status":false,"message":"Watch your spending. Amount cannot be processed online","meta":{"nextStep":"Reduce the amount you're attempting to charge the customer"},"type":"validation_error","code":"amount_exceed_limit"}
+[13-Jan-2025 20:00:19 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/nexustr2/public_html/model/mark_notification_seen.php on line 22
+[13-Jan-2025 20:00:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nexustr2/public_html/model/mark_notification_seen.php on line 22
+[13-Jan-2025 20:15:51 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/nexustr2/public_html/model/mark_notification_seen.php on line 22
+[13-Jan-2025 20:15:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nexustr2/public_html/model/mark_notification_seen.php on line 22
+[13-Jan-2025 20:17:36 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/nexustr2/public_html/model/mark_notification_seen.php on line 22
+[13-Jan-2025 20:17:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nexustr2/public_html/model/mark_notification_seen.php on line 22
+[13-Jan-2025 20:37:32 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/nexustr2/public_html/model/mark_notification_seen.php on line 22
+[13-Jan-2025 20:37:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nexustr2/public_html/model/mark_notification_seen.php on line 22

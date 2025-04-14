@@ -1,0 +1,59 @@
+[04-Oct-2024 08:11:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PortalUtility::check_existing_record() in /home/nexustr2/public_html/webhook/inc/portal.php:19
+Stack trace:
+#0 /home/nexustr2/public_html/webhook/paystacks.php(34): PortalUtility->insertIntoPaystacks(Object(mysqli), '4241193730', 'test', '', '7NX8SEAMR39DB', 50.0, '', '2024-10-04T08:1...', '2024-10-04T08:1...', 'card', 'NGN', '102.88.82.98', '', '', 'dtuy@yahoo.com', '', 'TX-66ffa0f34afe...', '5000')
+#1 {main}
+  thrown in /home/nexustr2/public_html/webhook/inc/portal.php on line 19
+[04-Oct-2024 08:43:27 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nexustr2/public_html/webhook/inc/portal.php on line 66
+[04-Oct-2024 08:43:27 UTC] PHP Warning:  Undefined variable $query in /home/nexustr2/public_html/webhook/inc/portal.php on line 50
+[04-Oct-2024 08:43:27 UTC] PHP Deprecated:  mysqli_query(): Passing null to parameter #2 ($query) of type string is deprecated in /home/nexustr2/public_html/webhook/inc/portal.php on line 50
+[04-Oct-2024 08:43:27 UTC] PHP Fatal error:  Uncaught ValueError: mysqli_query(): Argument #2 ($query) cannot be empty in /home/nexustr2/public_html/webhook/inc/portal.php:50
+Stack trace:
+#0 /home/nexustr2/public_html/webhook/inc/portal.php(50): mysqli_query(Object(mysqli), '')
+#1 /home/nexustr2/public_html/webhook/inc/portal.php(33): PortalUtility->updatePaymentStatus(Object(mysqli), 'TX-66ffa85f01ea...', 'dtuy@yahoo.com', 50.0, 50.0)
+#2 /home/nexustr2/public_html/webhook/paystacks.php(34): PortalUtility->insertIntoPaystacks(Object(mysqli), '4241324956', 'test', '', 'Y51W2TZSZSHMZ', 50.0, '', '2024-10-04T08:4...', '2024-10-04T08:4...', 'card', 'NGN', '102.88.82.98', '', '', 'dtuy@yahoo.com', '', 'TX-66ffa85f01ea...', '5000')
+#3 {main}
+  thrown in /home/nexustr2/public_html/webhook/inc/portal.php on line 50
+[04-Oct-2024 08:45:00 UTC] PHP Warning:  Undefined variable $query in /home/nexustr2/public_html/webhook/inc/portal.php on line 50
+[04-Oct-2024 08:45:00 UTC] PHP Deprecated:  mysqli_query(): Passing null to parameter #2 ($query) of type string is deprecated in /home/nexustr2/public_html/webhook/inc/portal.php on line 50
+[04-Oct-2024 08:45:00 UTC] PHP Fatal error:  Uncaught ValueError: mysqli_query(): Argument #2 ($query) cannot be empty in /home/nexustr2/public_html/webhook/inc/portal.php:50
+Stack trace:
+#0 /home/nexustr2/public_html/webhook/inc/portal.php(50): mysqli_query(Object(mysqli), '')
+#1 /home/nexustr2/public_html/webhook/inc/portal.php(33): PortalUtility->updatePaymentStatus(Object(mysqli), 'TX-66ffa8b8d3b9...', 'dtuy@yahoo.com', 50.0, 50.0)
+#2 /home/nexustr2/public_html/webhook/paystacks.php(34): PortalUtility->insertIntoPaystacks(Object(mysqli), '4241333607', 'test', '', 'AVPC4W0WV5HLQ', 50.0, '', '2024-10-04T08:4...', '2024-10-04T08:4...', 'card', 'NGN', '102.88.82.98', '', '', 'dtuy@yahoo.com', '', 'TX-66ffa8b8d3b9...', '5000')
+#3 {main}
+  thrown in /home/nexustr2/public_html/webhook/inc/portal.php on line 50
+[09-Oct-2024 08:57:36 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'admin' for key 'wallets.PRIMARY' in /home/nexustr2/public_html/webhook/inc/portal.php:50
+Stack trace:
+#0 /home/nexustr2/public_html/webhook/inc/portal.php(50): mysqli_query(Object(mysqli), 'INSERT INTO `wa...')
+#1 /home/nexustr2/public_html/webhook/inc/portal.php(33): PortalUtility->updatePaymentStatus(Object(mysqli), 'TX-670644d60b3a...', 'info@vimtechmed...', 5000.0, 5000.0)
+#2 /home/nexustr2/public_html/webhook/paystacks.php(34): PortalUtility->insertIntoPaystacks(Object(mysqli), '4257629899', 'test', '', 'MRW4CMHA81LZ7', 5000.0, '', '2024-10-09T08:5...', '2024-10-09T08:5...', 'card', 'NGN', '197.210.70.181', '', '', 'info@vimtechmed...', '', 'TX-670644d60b3a...', '500000')
+#3 {main}
+  thrown in /home/nexustr2/public_html/webhook/inc/portal.php on line 50
+[11-Oct-2024 15:14:35 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'jamjohn5' for key 'wallets.PRIMARY' in /home/nexustr2/public_html/webhook/inc/portal.php:50
+Stack trace:
+#0 /home/nexustr2/public_html/webhook/inc/portal.php(50): mysqli_query(Object(mysqli), 'INSERT INTO `wa...')
+#1 /home/nexustr2/public_html/webhook/inc/portal.php(33): PortalUtility->updatePaymentStatus(Object(mysqli), 'TX-670940c7e4a1...', 'spacedevs600@gm...', 5000.0, 5000.0)
+#2 /home/nexustr2/public_html/webhook/paystacks.php(34): PortalUtility->insertIntoPaystacks(Object(mysqli), '4264965298', 'test', '', '3PZH9DEP0GSJE', 5000.0, '', '2024-10-11T15:1...', '2024-10-11T15:1...', 'card', 'NGN', '105.120.132.177', '', '', 'spacedevs600@gm...', '', 'TX-670940c7e4a1...', '500000')
+#3 {main}
+  thrown in /home/nexustr2/public_html/webhook/inc/portal.php on line 50
+[11-Oct-2024 15:17:15 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'jamjohn5' for key 'wallets.PRIMARY' in /home/nexustr2/public_html/webhook/inc/portal.php:50
+Stack trace:
+#0 /home/nexustr2/public_html/webhook/inc/portal.php(50): mysqli_query(Object(mysqli), 'INSERT INTO `wa...')
+#1 /home/nexustr2/public_html/webhook/inc/portal.php(33): PortalUtility->updatePaymentStatus(Object(mysqli), 'TX-6709416f1194...', 'spacedevs600@gm...', 5000.0, 5000.0)
+#2 /home/nexustr2/public_html/webhook/paystacks.php(34): PortalUtility->insertIntoPaystacks(Object(mysqli), '4264971246', 'test', '', 'JUEZMCXNBI9IX', 5000.0, '', '2024-10-11T15:1...', '2024-10-11T15:1...', 'card', 'NGN', '105.120.132.177', '', '', 'spacedevs600@gm...', '', 'TX-6709416f1194...', '500000')
+#3 {main}
+  thrown in /home/nexustr2/public_html/webhook/inc/portal.php on line 50
+[11-Oct-2024 15:18:16 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'jamjohn5' for key 'wallets.PRIMARY' in /home/nexustr2/public_html/webhook/inc/portal.php:50
+Stack trace:
+#0 /home/nexustr2/public_html/webhook/inc/portal.php(50): mysqli_query(Object(mysqli), 'INSERT INTO `wa...')
+#1 /home/nexustr2/public_html/webhook/inc/portal.php(33): PortalUtility->updatePaymentStatus(Object(mysqli), 'TX-670941adb2c6...', 'spacedevs600@gm...', 1000.0, 1000.0)
+#2 /home/nexustr2/public_html/webhook/paystacks.php(34): PortalUtility->insertIntoPaystacks(Object(mysqli), '4264973350', 'test', '', '0REVGOLZEX9C5', 1000.0, '', '2024-10-11T15:1...', '2024-10-11T15:1...', 'card', 'NGN', '105.120.132.177', '', '', 'spacedevs600@gm...', '', 'TX-670941adb2c6...', '100000')
+#3 {main}
+  thrown in /home/nexustr2/public_html/webhook/inc/portal.php on line 50
+[16-Oct-2024 14:11:56 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'jamjohn' for key 'wallets.PRIMARY' in /home/nexustr2/public_html/webhook/inc/portal.php:50
+Stack trace:
+#0 /home/nexustr2/public_html/webhook/inc/portal.php(50): mysqli_query(Object(mysqli), 'INSERT INTO `wa...')
+#1 /home/nexustr2/public_html/webhook/inc/portal.php(33): PortalUtility->updatePaymentStatus(Object(mysqli), 'TX-670fc983a529...', 'spacedevs600@gm...', 5000.0, 5000.0)
+#2 /home/nexustr2/public_html/webhook/paystacks.php(34): PortalUtility->insertIntoPaystacks(Object(mysqli), '4280074618', 'test', '', '6E21SBN3PKB1I', 5000.0, '', '2024-10-16T14:1...', '2024-10-16T14:1...', 'card', 'NGN', '105.120.129.3', '', '', 'spacedevs600@gm...', '', 'TX-670fc983a529...', '500000')
+#3 {main}
+  thrown in /home/nexustr2/public_html/webhook/inc/portal.php on line 50

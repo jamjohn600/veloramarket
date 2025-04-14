@@ -1,0 +1,159 @@
+[18-Dec-2024 01:27:03 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, array given in /home/nexustr2/public_html/client/trade/index.php:104
+Stack trace:
+#0 /home/nexustr2/public_html/client/trade/index.php(104): number_format()
+#1 {main}
+  thrown in /home/nexustr2/public_html/client/trade/index.php on line 104
+[18-Dec-2024 01:28:31 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, array given in /home/nexustr2/public_html/client/trade/index.php:103
+Stack trace:
+#0 /home/nexustr2/public_html/client/trade/index.php(103): number_format()
+#1 {main}
+  thrown in /home/nexustr2/public_html/client/trade/index.php on line 103
+[18-Dec-2024 01:29:03 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, array given in /home/nexustr2/public_html/client/trade/index.php:102
+Stack trace:
+#0 /home/nexustr2/public_html/client/trade/index.php(102): number_format()
+#1 {main}
+  thrown in /home/nexustr2/public_html/client/trade/index.php on line 102
+[18-Dec-2024 01:29:41 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, array given in /home/nexustr2/public_html/client/trade/index.php:103
+Stack trace:
+#0 /home/nexustr2/public_html/client/trade/index.php(103): number_format()
+#1 {main}
+  thrown in /home/nexustr2/public_html/client/trade/index.php on line 103
+[18-Dec-2024 01:30:39 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, array given in /home/nexustr2/public_html/client/trade/index.php:103
+Stack trace:
+#0 /home/nexustr2/public_html/client/trade/index.php(103): number_format()
+#1 {main}
+  thrown in /home/nexustr2/public_html/client/trade/index.php on line 103
+[18-Dec-2024 01:32:32 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, array given in /home/nexustr2/public_html/client/trade/index.php:104
+Stack trace:
+#0 /home/nexustr2/public_html/client/trade/index.php(104): number_format()
+#1 {main}
+  thrown in /home/nexustr2/public_html/client/trade/index.php on line 104
+[18-Dec-2024 01:33:29 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, array given in /home/nexustr2/public_html/client/trade/index.php:104
+Stack trace:
+#0 /home/nexustr2/public_html/client/trade/index.php(104): number_format()
+#1 {main}
+  thrown in /home/nexustr2/public_html/client/trade/index.php on line 104
+[18-Dec-2024 16:38:03 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, array given in /home/nexustr2/public_html/client/trade/index.php:104
+Stack trace:
+#0 /home/nexustr2/public_html/client/trade/index.php(104): number_format()
+#1 {main}
+  thrown in /home/nexustr2/public_html/client/trade/index.php on line 104
+[18-Dec-2024 16:47:26 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, array given in /home/nexustr2/public_html/client/trade/index.php:104
+Stack trace:
+#0 /home/nexustr2/public_html/client/trade/index.php(104): number_format()
+#1 {main}
+  thrown in /home/nexustr2/public_html/client/trade/index.php on line 104
+[18-Dec-2024 16:48:15 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, array given in /home/nexustr2/public_html/client/trade/index.php:104
+Stack trace:
+#0 /home/nexustr2/public_html/client/trade/index.php(104): number_format()
+#1 {main}
+  thrown in /home/nexustr2/public_html/client/trade/index.php on line 104
+[18-Dec-2024 16:50:44 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, array given in /home/nexustr2/public_html/client/trade/index.php:104
+Stack trace:
+#0 /home/nexustr2/public_html/client/trade/index.php(104): number_format()
+#1 {main}
+  thrown in /home/nexustr2/public_html/client/trade/index.php on line 104
+[18-Dec-2024 16:51:03 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, array given in /home/nexustr2/public_html/client/trade/index.php:104
+Stack trace:
+#0 /home/nexustr2/public_html/client/trade/index.php(104): number_format()
+#1 {main}
+  thrown in /home/nexustr2/public_html/client/trade/index.php on line 104
+[18-Dec-2024 16:51:22 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, array given in /home/nexustr2/public_html/client/trade/index.php:104
+Stack trace:
+#0 /home/nexustr2/public_html/client/trade/index.php(104): number_format()
+#1 {main}
+  thrown in /home/nexustr2/public_html/client/trade/index.php on line 104
+[18-Dec-2024 16:51:25 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, array given in /home/nexustr2/public_html/client/trade/index.php:104
+Stack trace:
+#0 /home/nexustr2/public_html/client/trade/index.php(104): number_format()
+#1 {main}
+  thrown in /home/nexustr2/public_html/client/trade/index.php on line 104
+[18-Dec-2024 16:55:11 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, array given in /home/nexustr2/public_html/client/trade/index.php:102
+Stack trace:
+#0 /home/nexustr2/public_html/client/trade/index.php(102): number_format()
+#1 {main}
+  thrown in /home/nexustr2/public_html/client/trade/index.php on line 102
+[18-Dec-2024 16:55:35 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, array given in /home/nexustr2/public_html/client/trade/index.php:102
+Stack trace:
+#0 /home/nexustr2/public_html/client/trade/index.php(102): number_format()
+#1 {main}
+  thrown in /home/nexustr2/public_html/client/trade/index.php on line 102
+[18-Dec-2024 17:02:35 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, array given in /home/nexustr2/public_html/client/trade/index.php:103
+Stack trace:
+#0 /home/nexustr2/public_html/client/trade/index.php(103): number_format()
+#1 {main}
+  thrown in /home/nexustr2/public_html/client/trade/index.php on line 103
+[18-Dec-2024 17:03:21 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, array given in /home/nexustr2/public_html/client/trade/index.php:103
+Stack trace:
+#0 /home/nexustr2/public_html/client/trade/index.php(103): number_format()
+#1 {main}
+  thrown in /home/nexustr2/public_html/client/trade/index.php on line 103
+[18-Dec-2024 17:03:51 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, array given in /home/nexustr2/public_html/client/trade/index.php:102
+Stack trace:
+#0 /home/nexustr2/public_html/client/trade/index.php(102): number_format()
+#1 {main}
+  thrown in /home/nexustr2/public_html/client/trade/index.php on line 102
+[18-Dec-2024 17:10:11 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, array given in /home/nexustr2/public_html/client/trade/index.php:102
+Stack trace:
+#0 /home/nexustr2/public_html/client/trade/index.php(102): number_format()
+#1 {main}
+  thrown in /home/nexustr2/public_html/client/trade/index.php on line 102
+[18-Dec-2024 17:15:13 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, array given in /home/nexustr2/public_html/client/trade/index.php:104
+Stack trace:
+#0 /home/nexustr2/public_html/client/trade/index.php(104): number_format()
+#1 {main}
+  thrown in /home/nexustr2/public_html/client/trade/index.php on line 104
+[18-Dec-2024 17:16:38 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, array given in /home/nexustr2/public_html/client/trade/index.php:103
+Stack trace:
+#0 /home/nexustr2/public_html/client/trade/index.php(103): number_format()
+#1 {main}
+  thrown in /home/nexustr2/public_html/client/trade/index.php on line 103
+[18-Dec-2024 17:23:16 UTC] PHP Warning:  Array to string conversion in /home/nexustr2/public_html/client/trade/index.php on line 46
+[23-Dec-2024 00:54:53 UTC] PHP Warning:  require_once(db.php): Failed to open stream: No such file or directory in /home/nexustr2/public_html/client/trade/saveTrade.php on line 3
+[23-Dec-2024 00:54:53 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'db.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/nexustr2/public_html/client/trade/saveTrade.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/nexustr2/public_html/client/trade/saveTrade.php on line 3
+[23-Dec-2024 00:55:43 UTC] PHP Warning:  require_once(db.php): Failed to open stream: No such file or directory in /home/nexustr2/public_html/client/trade/saveTrade.php on line 3
+[23-Dec-2024 00:55:43 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'db.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/nexustr2/public_html/client/trade/saveTrade.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/nexustr2/public_html/client/trade/saveTrade.php on line 3
+[23-Dec-2024 00:58:34 UTC] PHP Warning:  require_once(db.php): Failed to open stream: No such file or directory in /home/nexustr2/public_html/client/trade/saveTrade.php on line 3
+[23-Dec-2024 00:58:34 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'db.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/nexustr2/public_html/client/trade/saveTrade.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/nexustr2/public_html/client/trade/saveTrade.php on line 3
+[03-Jan-2025 19:47:54 UTC] Transaction error: No wallet update action taken.
+[03-Jan-2025 19:49:14 UTC] Transaction error: No wallet update action taken.
+[03-Jan-2025 19:51:09 UTC] Transaction error: No wallet update action taken.
+[03-Jan-2025 21:11:29 UTC] Transaction error: No wallet update action taken.
+[03-Jan-2025 21:11:29 UTC] Transaction error: No wallet update action taken.
+[03-Jan-2025 21:11:29 UTC] Transaction error: No wallet update action taken.
+[03-Jan-2025 21:11:29 UTC] Transaction error: No wallet update action taken.
+[03-Jan-2025 21:11:29 UTC] Transaction error: No wallet update action taken.
+[03-Jan-2025 21:13:56 UTC] Transaction error: No wallet update action taken.
+[03-Jan-2025 21:15:20 UTC] Transaction error: No wallet update action taken.
+[03-Jan-2025 21:18:46 UTC] Transaction error: No wallet update action taken.
+[04-Jan-2025 03:27:53 UTC] Transaction error: No wallet update action taken.
+[04-Jan-2025 20:03:44 UTC] Transaction error: No wallet update action taken.
+[04-Jan-2025 20:04:45 UTC] Transaction error: No wallet update action taken.
+[04-Jan-2025 20:06:32 UTC] Transaction error: No wallet update action taken.
+[04-Jan-2025 20:06:57 UTC] Transaction error: No wallet update action taken.
+[04-Jan-2025 20:14:32 UTC] Transaction error: No wallet update action taken.
+[04-Jan-2025 20:19:03 UTC] Transaction error: No wallet update action taken.
+[06-Jan-2025 10:43:23 UTC] Transaction error: No wallet update action taken.
+[08-Jan-2025 17:20:04 UTC] Transaction error: No wallet update action taken.
+[08-Jan-2025 17:22:17 UTC] Transaction error: No wallet update action taken.
+[17-Jan-2025 02:34:45 UTC] Transaction error: No wallet update action taken.
+[17-Jan-2025 04:52:00 UTC] Transaction error: No wallet update action taken.
+[17-Jan-2025 04:55:22 UTC] Transaction error: No wallet update action taken.
+[17-Jan-2025 04:59:28 UTC] Transaction error: No wallet update action taken.
+[17-Jan-2025 04:59:28 UTC] Transaction error: No wallet update action taken.
+[17-Jan-2025 05:02:30 UTC] Transaction error: No wallet update action taken.
+[17-Jan-2025 05:08:12 UTC] Transaction error: No wallet update action taken.
+[17-Jan-2025 05:08:12 UTC] Transaction error: No wallet update action taken.
+[17-Jan-2025 05:08:12 UTC] Transaction error: No wallet update action taken.
+[17-Jan-2025 05:16:52 UTC] Transaction error: No wallet update action taken.
+[17-Jan-2025 05:18:33 UTC] Transaction error: No wallet update action taken.
+[17-Jan-2025 05:19:45 UTC] Transaction error: No wallet update action taken.

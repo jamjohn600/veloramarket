@@ -1,0 +1,1027 @@
+[09-Oct-2024 14:11:21 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/nexustr2/public_html/client/profile/index.php on line 449
+[09-Oct-2024 14:11:21 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/nexustr2/public_html/client/profile/index.php on line 532
+[09-Oct-2024 14:23:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/nexustr2/public_html/client/profile/index.php on line 449
+[09-Oct-2024 14:23:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/nexustr2/public_html/client/profile/index.php on line 532
+[09-Oct-2024 14:25:12 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/nexustr2/public_html/client/profile/index.php on line 449
+[09-Oct-2024 14:25:12 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/nexustr2/public_html/client/profile/index.php on line 532
+[09-Oct-2024 15:19:13 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/nexustr2/public_html/client/profile/index.php on line 449
+[09-Oct-2024 15:19:13 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/nexustr2/public_html/client/profile/index.php on line 532
+[09-Oct-2024 15:54:04 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/nexustr2/public_html/client/profile/index.php on line 449
+[09-Oct-2024 15:54:04 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/nexustr2/public_html/client/profile/index.php on line 532
+[09-Oct-2024 17:17:44 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/nexustr2/public_html/client/profile/index.php on line 449
+[09-Oct-2024 17:17:44 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/nexustr2/public_html/client/profile/index.php on line 532
+[13-Oct-2024 12:59:28 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/nexustr2/public_html/client/profile/index.php on line 279
+[13-Oct-2024 12:59:28 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/nexustr2/public_html/client/profile/index.php on line 362
+[14-Oct-2024 07:31:55 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/nexustr2/public_html/client/profile/index.php on line 279
+[14-Oct-2024 07:31:55 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/nexustr2/public_html/client/profile/index.php on line 362
+[15-Oct-2024 06:10:11 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/nexustr2/public_html/client/profile/index.php on line 279
+[15-Oct-2024 06:10:11 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/nexustr2/public_html/client/profile/index.php on line 362
+[15-Oct-2024 06:11:04 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/nexustr2/public_html/client/profile/index.php on line 279
+[15-Oct-2024 06:11:04 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/nexustr2/public_html/client/profile/index.php on line 362
+[17-Oct-2024 16:13:54 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/nexustr2/public_html/client/profile/index.php on line 279
+[17-Oct-2024 16:13:54 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/nexustr2/public_html/client/profile/index.php on line 362
+[17-Oct-2024 22:07:13 UTC] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/nexustr2/public_html/client/profile/index.php on line 280
+[17-Oct-2024 22:07:13 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/nexustr2/public_html/client/profile/index.php on line 281
+[17-Oct-2024 22:07:13 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/nexustr2/public_html/client/profile/index.php on line 364
+[17-Oct-2024 22:07:13 UTC] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/nexustr2/public_html/client/profile/index.php on line 372
+[17-Oct-2024 22:08:25 UTC] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/nexustr2/public_html/client/profile/index.php on line 280
+[17-Oct-2024 22:08:25 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/nexustr2/public_html/client/profile/index.php on line 281
+[17-Oct-2024 22:08:25 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/nexustr2/public_html/client/profile/index.php on line 364
+[17-Oct-2024 22:08:25 UTC] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/nexustr2/public_html/client/profile/index.php on line 372
+[18-Oct-2024 13:04:03 UTC] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/nexustr2/public_html/client/profile/index.php on line 280
+[18-Oct-2024 13:04:03 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/nexustr2/public_html/client/profile/index.php on line 281
+[18-Oct-2024 13:04:03 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/nexustr2/public_html/client/profile/index.php on line 364
+[18-Oct-2024 13:04:03 UTC] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/nexustr2/public_html/client/profile/index.php on line 372
+[18-Oct-2024 13:06:26 UTC] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/nexustr2/public_html/client/profile/index.php on line 280
+[18-Oct-2024 13:06:26 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/nexustr2/public_html/client/profile/index.php on line 281
+[18-Oct-2024 13:06:26 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/nexustr2/public_html/client/profile/index.php on line 364
+[18-Oct-2024 13:06:26 UTC] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/nexustr2/public_html/client/profile/index.php on line 372
+[18-Oct-2024 13:13:26 UTC] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/nexustr2/public_html/client/profile/index.php on line 280
+[18-Oct-2024 13:13:26 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/nexustr2/public_html/client/profile/index.php on line 281
+[18-Oct-2024 13:13:26 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/nexustr2/public_html/client/profile/index.php on line 364
+[18-Oct-2024 13:13:26 UTC] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/nexustr2/public_html/client/profile/index.php on line 372
+[18-Oct-2024 15:08:58 UTC] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/nexustr2/public_html/client/profile/index.php on line 283
+[18-Oct-2024 15:08:58 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/nexustr2/public_html/client/profile/index.php on line 284
+[18-Oct-2024 15:08:58 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/nexustr2/public_html/client/profile/index.php on line 367
+[18-Oct-2024 15:08:58 UTC] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/nexustr2/public_html/client/profile/index.php on line 375
+[18-Oct-2024 15:09:02 UTC] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/nexustr2/public_html/client/profile/index.php on line 283
+[18-Oct-2024 15:09:02 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/nexustr2/public_html/client/profile/index.php on line 284
+[18-Oct-2024 15:09:02 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/nexustr2/public_html/client/profile/index.php on line 367
+[18-Oct-2024 15:09:02 UTC] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/nexustr2/public_html/client/profile/index.php on line 375
+[18-Oct-2024 16:40:12 UTC] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/nexustr2/public_html/client/profile/index.php on line 283
+[18-Oct-2024 16:40:12 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/nexustr2/public_html/client/profile/index.php on line 284
+[18-Oct-2024 16:40:12 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/nexustr2/public_html/client/profile/index.php on line 367
+[18-Oct-2024 16:40:12 UTC] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/nexustr2/public_html/client/profile/index.php on line 375
+[18-Oct-2024 16:41:43 UTC] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/nexustr2/public_html/client/profile/index.php on line 283
+[18-Oct-2024 16:41:43 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/nexustr2/public_html/client/profile/index.php on line 284
+[18-Oct-2024 16:41:43 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/nexustr2/public_html/client/profile/index.php on line 367
+[18-Oct-2024 16:41:43 UTC] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/nexustr2/public_html/client/profile/index.php on line 375
+[18-Oct-2024 16:49:37 UTC] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/nexustr2/public_html/client/profile/index.php on line 283
+[18-Oct-2024 16:49:37 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/nexustr2/public_html/client/profile/index.php on line 284
+[18-Oct-2024 16:49:37 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/nexustr2/public_html/client/profile/index.php on line 367
+[18-Oct-2024 16:49:37 UTC] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/nexustr2/public_html/client/profile/index.php on line 375
+[18-Oct-2024 17:28:04 UTC] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/nexustr2/public_html/client/profile/index.php on line 283
+[18-Oct-2024 17:28:04 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/nexustr2/public_html/client/profile/index.php on line 284
+[18-Oct-2024 17:28:04 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/nexustr2/public_html/client/profile/index.php on line 367
+[18-Oct-2024 17:28:04 UTC] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/nexustr2/public_html/client/profile/index.php on line 375
+[20-Oct-2024 16:47:51 UTC] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/nexustr2/public_html/client/profile/index.php on line 283
+[20-Oct-2024 16:47:51 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/nexustr2/public_html/client/profile/index.php on line 284
+[20-Oct-2024 16:47:51 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/nexustr2/public_html/client/profile/index.php on line 367
+[20-Oct-2024 16:47:51 UTC] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/nexustr2/public_html/client/profile/index.php on line 375
+[20-Oct-2024 16:49:58 UTC] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/nexustr2/public_html/client/profile/index.php on line 283
+[20-Oct-2024 16:49:58 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/nexustr2/public_html/client/profile/index.php on line 284
+[20-Oct-2024 16:49:58 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/nexustr2/public_html/client/profile/index.php on line 367
+[20-Oct-2024 16:49:58 UTC] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/nexustr2/public_html/client/profile/index.php on line 375
+[20-Oct-2024 17:56:36 UTC] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/nexustr2/public_html/client/profile/index.php on line 283
+[20-Oct-2024 17:56:36 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/nexustr2/public_html/client/profile/index.php on line 284
+[20-Oct-2024 17:56:36 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/nexustr2/public_html/client/profile/index.php on line 367
+[20-Oct-2024 17:56:36 UTC] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/nexustr2/public_html/client/profile/index.php on line 375
+[20-Oct-2024 17:58:56 UTC] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/nexustr2/public_html/client/profile/index.php on line 283
+[20-Oct-2024 17:58:56 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/nexustr2/public_html/client/profile/index.php on line 284
+[20-Oct-2024 17:58:56 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/nexustr2/public_html/client/profile/index.php on line 367
+[20-Oct-2024 17:58:56 UTC] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/nexustr2/public_html/client/profile/index.php on line 375
+[20-Oct-2024 18:20:34 UTC] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/nexustr2/public_html/client/profile/index.php on line 283
+[20-Oct-2024 18:20:34 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/nexustr2/public_html/client/profile/index.php on line 284
+[20-Oct-2024 18:20:34 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/nexustr2/public_html/client/profile/index.php on line 367
+[20-Oct-2024 18:20:34 UTC] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/nexustr2/public_html/client/profile/index.php on line 375
+[23-Oct-2024 13:31:19 UTC] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/nexustr2/public_html/client/profile/index.php on line 283
+[23-Oct-2024 13:31:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/nexustr2/public_html/client/profile/index.php on line 284
+[23-Oct-2024 13:31:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/nexustr2/public_html/client/profile/index.php on line 367
+[23-Oct-2024 13:31:19 UTC] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/nexustr2/public_html/client/profile/index.php on line 375
+[23-Oct-2024 13:32:16 UTC] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/nexustr2/public_html/client/profile/index.php on line 283
+[23-Oct-2024 13:32:16 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/nexustr2/public_html/client/profile/index.php on line 284
+[23-Oct-2024 13:32:16 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/nexustr2/public_html/client/profile/index.php on line 367
+[23-Oct-2024 13:32:16 UTC] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/nexustr2/public_html/client/profile/index.php on line 375
+[23-Oct-2024 19:27:14 UTC] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/nexustr2/public_html/client/profile/index.php on line 283
+[23-Oct-2024 19:27:14 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/nexustr2/public_html/client/profile/index.php on line 284
+[23-Oct-2024 19:27:14 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/nexustr2/public_html/client/profile/index.php on line 367
+[23-Oct-2024 19:27:14 UTC] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/nexustr2/public_html/client/profile/index.php on line 375
+[31-Oct-2024 10:20:47 UTC] PHP Warning:  Undefined array key "username" in /home/nexustr2/public_html/client/profile/index.php on line 25
+[31-Oct-2024 10:32:34 UTC] PHP Parse error:  syntax error, unexpected token "--" in /home/nexustr2/public_html/client/profile/index.php on line 416
+[31-Oct-2024 10:33:09 UTC] PHP Parse error:  syntax error, unexpected token "--" in /home/nexustr2/public_html/client/profile/index.php on line 416
+[31-Oct-2024 10:33:41 UTC] PHP Parse error:  syntax error, unexpected token "--" in /home/nexustr2/public_html/client/profile/index.php on line 416
+[31-Oct-2024 10:35:05 UTC] PHP Parse error:  syntax error, unexpected token "--" in /home/nexustr2/public_html/client/profile/index.php on line 416
+[31-Oct-2024 12:40:41 UTC] PHP Warning:  Undefined array key "username" in /home/nexustr2/public_html/client/profile/index.php on line 25
+[31-Oct-2024 16:30:06 UTC] PHP Warning:  Undefined array key "username" in /home/nexustr2/public_html/client/profile/index.php on line 25
+[31-Oct-2024 16:30:16 UTC] PHP Warning:  Undefined array key "username" in /home/nexustr2/public_html/client/profile/index.php on line 25
+[31-Oct-2024 16:30:29 UTC] PHP Warning:  Undefined array key "username" in /home/nexustr2/public_html/client/profile/index.php on line 25
+[31-Oct-2024 16:31:03 UTC] PHP Warning:  Undefined array key "username" in /home/nexustr2/public_html/client/profile/index.php on line 25
+[31-Oct-2024 16:31:03 UTC] PHP Warning:  Undefined array key "username" in /home/nexustr2/public_html/client/profile/index.php on line 25
+[31-Oct-2024 16:31:05 UTC] PHP Warning:  Undefined array key "username" in /home/nexustr2/public_html/client/profile/index.php on line 25
+[12-Nov-2024 06:08:56 UTC] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/nexustr2/public_html/client/profile/index.php on line 282
+[12-Nov-2024 06:08:56 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/nexustr2/public_html/client/profile/index.php on line 283
+[12-Nov-2024 06:08:56 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/nexustr2/public_html/client/profile/index.php on line 366
+[12-Nov-2024 06:08:56 UTC] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/nexustr2/public_html/client/profile/index.php on line 374
+[17-Nov-2024 16:47:00 UTC] PHP Warning:  Undefined array key "username" in /home/nexustr2/public_html/client/profile/index.php on line 25
+[17-Nov-2024 16:47:00 UTC] PHP Warning:  Undefined array key "username" in /home/nexustr2/public_html/client/profile/index.php on line 25
+[17-Nov-2024 16:47:02 UTC] PHP Warning:  Undefined array key "username" in /home/nexustr2/public_html/client/profile/index.php on line 25
+[20-Nov-2024 16:12:08 UTC] PHP Warning:  Undefined array key "username" in /home/nexustr2/public_html/client/profile/index.php on line 25
+[20-Nov-2024 16:12:09 UTC] PHP Warning:  Undefined array key "username" in /home/nexustr2/public_html/client/profile/index.php on line 25
+[20-Nov-2024 16:12:11 UTC] PHP Warning:  Undefined array key "username" in /home/nexustr2/public_html/client/profile/index.php on line 25
+[26-Nov-2024 14:33:07 UTC] PHP Warning:  Undefined array key "username" in /home/nexustr2/public_html/client/profile/index.php on line 25
+[26-Nov-2024 14:33:08 UTC] PHP Warning:  Undefined array key "username" in /home/nexustr2/public_html/client/profile/index.php on line 25
+[09-Dec-2024 11:52:01 UTC] PHP Warning:  Undefined array key "username" in /home/nexustr2/public_html/client/profile/index.php on line 25
+[09-Dec-2024 11:52:01 UTC] PHP Warning:  Undefined array key "username" in /home/nexustr2/public_html/client/profile/index.php on line 25
+[09-Dec-2024 11:52:01 UTC] PHP Warning:  Undefined array key "username" in /home/nexustr2/public_html/client/profile/index.php on line 25
+[22-Dec-2024 00:24:52 UTC] PHP Warning:  Undefined array key "username" in /home/nexustr2/public_html/client/profile/index.php on line 25
+[22-Dec-2024 00:24:53 UTC] PHP Warning:  Undefined array key "username" in /home/nexustr2/public_html/client/profile/index.php on line 25
+[22-Dec-2024 00:24:53 UTC] PHP Warning:  Undefined array key "username" in /home/nexustr2/public_html/client/profile/index.php on line 25
+[23-Dec-2024 19:30:07 UTC] PHP Warning:  Undefined array key "username" in /home/nexustr2/public_html/client/profile/index.php on line 25
+[23-Dec-2024 19:30:09 UTC] PHP Warning:  Undefined array key "username" in /home/nexustr2/public_html/client/profile/index.php on line 25
+[23-Dec-2024 21:50:23 UTC] PHP Warning:  Undefined array key "username" in /home/nexustr2/public_html/client/profile/index.php on line 25
+[23-Dec-2024 21:50:28 UTC] PHP Warning:  Undefined array key "username" in /home/nexustr2/public_html/client/profile/index.php on line 25
+[23-Dec-2024 21:50:28 UTC] PHP Warning:  Undefined array key "username" in /home/nexustr2/public_html/client/profile/index.php on line 25
+[23-Dec-2024 21:50:30 UTC] PHP Warning:  Undefined array key "username" in /home/nexustr2/public_html/client/profile/index.php on line 25
+[23-Dec-2024 22:06:48 UTC] PHP Warning:  Undefined array key "username" in /home/nexustr2/public_html/client/profile/index.php on line 25
+[23-Dec-2024 22:06:55 UTC] PHP Warning:  Undefined array key "username" in /home/nexustr2/public_html/client/profile/index.php on line 25
+[23-Dec-2024 22:06:55 UTC] PHP Warning:  Undefined array key "username" in /home/nexustr2/public_html/client/profile/index.php on line 25
+[23-Dec-2024 22:06:55 UTC] PHP Warning:  Undefined array key "username" in /home/nexustr2/public_html/client/profile/index.php on line 25
+[24-Dec-2024 06:54:59 UTC] PHP Warning:  Undefined array key "username" in /home/nexustr2/public_html/client/profile/index.php on line 25
+[24-Dec-2024 18:27:36 UTC] PHP Warning:  Undefined array key "username" in /home/nexustr2/public_html/client/profile/index.php on line 25
+[24-Dec-2024 18:27:41 UTC] PHP Warning:  Undefined array key "username" in /home/nexustr2/public_html/client/profile/index.php on line 25
+[24-Dec-2024 18:27:42 UTC] PHP Warning:  Undefined array key "username" in /home/nexustr2/public_html/client/profile/index.php on line 25
+[24-Dec-2024 18:27:42 UTC] PHP Warning:  Undefined array key "username" in /home/nexustr2/public_html/client/profile/index.php on line 25
+[26-Dec-2024 19:07:47 UTC] PHP Warning:  Undefined array key "username" in /home/nexustr2/public_html/client/profile/index.php on line 25
+[28-Dec-2024 10:30:42 UTC] PHP Warning:  Undefined array key "username" in /home/nexustr2/public_html/client/profile/index.php on line 25
+[28-Dec-2024 10:30:42 UTC] PHP Warning:  Undefined array key "username" in /home/nexustr2/public_html/client/profile/index.php on line 25
+[28-Dec-2024 10:30:42 UTC] PHP Warning:  Undefined array key "username" in /home/nexustr2/public_html/client/profile/index.php on line 25
+[29-Dec-2024 08:13:23 UTC] PHP Warning:  Undefined array key "username" in /home/nexustr2/public_html/client/profile/index.php on line 25
+[29-Dec-2024 08:13:25 UTC] PHP Warning:  Undefined array key "username" in /home/nexustr2/public_html/client/profile/index.php on line 25
+[29-Dec-2024 19:35:44 UTC] PHP Warning:  Undefined array key "username" in /home/nexustr2/public_html/client/profile/index.php on line 25
+[03-Jan-2025 09:37:23 UTC] PHP Warning:  Undefined array key "username" in /home/nexustr2/public_html/client/profile/index.php on line 25
+[03-Jan-2025 09:37:34 UTC] PHP Warning:  Undefined array key "username" in /home/nexustr2/public_html/client/profile/index.php on line 25
+[03-Jan-2025 10:28:09 UTC] PHP Warning:  Undefined array key "username" in /home/nexustr2/public_html/client/profile/index.php on line 25
+[03-Jan-2025 10:28:14 UTC] PHP Warning:  Undefined array key "username" in /home/nexustr2/public_html/client/profile/index.php on line 25
+[03-Jan-2025 10:28:14 UTC] PHP Warning:  Undefined array key "username" in /home/nexustr2/public_html/client/profile/index.php on line 25
+[03-Jan-2025 10:28:14 UTC] PHP Warning:  Undefined array key "username" in /home/nexustr2/public_html/client/profile/index.php on line 25
+[03-Jan-2025 19:17:17 UTC] PHP Warning:  Undefined array key "username" in /home/nexustr2/public_html/client/profile/index.php on line 25
+[03-Jan-2025 19:44:34 UTC] PHP Warning:  Undefined array key "username" in /home/nexustr2/public_html/client/profile/index.php on line 25
+[03-Jan-2025 19:44:39 UTC] PHP Warning:  Undefined array key "username" in /home/nexustr2/public_html/client/profile/index.php on line 25
+[03-Jan-2025 19:44:40 UTC] PHP Warning:  Undefined array key "username" in /home/nexustr2/public_html/client/profile/index.php on line 25
+[03-Jan-2025 19:44:40 UTC] PHP Warning:  Undefined array key "username" in /home/nexustr2/public_html/client/profile/index.php on line 25
+[04-Jan-2025 20:09:20 UTC] PHP Warning:  Undefined array key "username" in /home/nexustr2/public_html/client/profile/index.php on line 25
+[04-Jan-2025 20:11:38 UTC] PHP Warning:  Undefined array key "username" in /home/nexustr2/public_html/client/profile/index.php on line 25
+[04-Jan-2025 20:11:49 UTC] PHP Warning:  Undefined array key "username" in /home/nexustr2/public_html/client/profile/index.php on line 25
+[04-Jan-2025 20:11:55 UTC] PHP Warning:  Undefined array key "username" in /home/nexustr2/public_html/client/profile/index.php on line 25
+[04-Jan-2025 20:12:07 UTC] PHP Warning:  Undefined array key "username" in /home/nexustr2/public_html/client/profile/index.php on line 25
+[04-Jan-2025 20:12:40 UTC] PHP Warning:  Undefined array key "username" in /home/nexustr2/public_html/client/profile/index.php on line 25
+[05-Jan-2025 05:50:34 UTC] PHP Warning:  Undefined array key "username" in /home/nexustr2/public_html/client/profile/index.php on line 25
+[05-Jan-2025 05:50:40 UTC] PHP Warning:  Undefined array key "username" in /home/nexustr2/public_html/client/profile/index.php on line 25
+[05-Jan-2025 05:50:40 UTC] PHP Warning:  Undefined array key "username" in /home/nexustr2/public_html/client/profile/index.php on line 25
+[05-Jan-2025 05:50:40 UTC] PHP Warning:  Undefined array key "username" in /home/nexustr2/public_html/client/profile/index.php on line 25
+[06-Jan-2025 06:09:01 UTC] PHP Warning:  Undefined array key "username" in /home/nexustr2/public_html/client/profile/index.php on line 25
+[06-Jan-2025 07:39:04 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 422
+[06-Jan-2025 07:39:04 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 423
+[06-Jan-2025 07:39:04 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 424
+[06-Jan-2025 07:39:04 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 422
+[06-Jan-2025 07:39:04 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 423
+[06-Jan-2025 07:39:04 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 424
+[06-Jan-2025 07:39:04 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 422
+[06-Jan-2025 07:39:04 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 423
+[06-Jan-2025 07:39:04 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 424
+[06-Jan-2025 07:39:04 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 912
+[06-Jan-2025 07:39:04 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 913
+[06-Jan-2025 07:39:04 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 914
+[06-Jan-2025 07:39:04 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 912
+[06-Jan-2025 07:39:04 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 913
+[06-Jan-2025 07:39:04 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 914
+[06-Jan-2025 07:39:04 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 912
+[06-Jan-2025 07:39:04 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 913
+[06-Jan-2025 07:39:04 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 914
+[06-Jan-2025 07:39:04 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 1006
+[06-Jan-2025 07:39:04 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 1007
+[06-Jan-2025 07:39:04 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 1008
+[06-Jan-2025 07:39:04 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 1006
+[06-Jan-2025 07:39:04 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 1007
+[06-Jan-2025 07:39:04 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 1008
+[06-Jan-2025 07:39:04 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 1006
+[06-Jan-2025 07:39:04 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 1007
+[06-Jan-2025 07:39:04 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 1008
+[06-Jan-2025 12:12:53 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 422
+[06-Jan-2025 12:12:53 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 423
+[06-Jan-2025 12:12:53 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 424
+[06-Jan-2025 12:12:53 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 422
+[06-Jan-2025 12:12:53 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 423
+[06-Jan-2025 12:12:53 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 424
+[06-Jan-2025 12:12:53 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 422
+[06-Jan-2025 12:12:53 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 423
+[06-Jan-2025 12:12:53 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 424
+[06-Jan-2025 12:12:53 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 912
+[06-Jan-2025 12:12:53 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 913
+[06-Jan-2025 12:12:53 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 914
+[06-Jan-2025 12:12:53 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 912
+[06-Jan-2025 12:12:53 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 913
+[06-Jan-2025 12:12:53 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 914
+[06-Jan-2025 12:12:53 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 912
+[06-Jan-2025 12:12:53 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 913
+[06-Jan-2025 12:12:53 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 914
+[06-Jan-2025 12:12:53 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 1006
+[06-Jan-2025 12:12:53 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 1007
+[06-Jan-2025 12:12:53 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 1008
+[06-Jan-2025 12:12:53 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 1006
+[06-Jan-2025 12:12:53 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 1007
+[06-Jan-2025 12:12:53 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 1008
+[06-Jan-2025 12:12:53 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 1006
+[06-Jan-2025 12:12:53 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 1007
+[06-Jan-2025 12:12:53 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 1008
+[06-Jan-2025 12:13:07 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 422
+[06-Jan-2025 12:13:07 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 423
+[06-Jan-2025 12:13:07 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 424
+[06-Jan-2025 12:13:07 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 422
+[06-Jan-2025 12:13:07 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 423
+[06-Jan-2025 12:13:07 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 424
+[06-Jan-2025 12:13:07 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 422
+[06-Jan-2025 12:13:07 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 423
+[06-Jan-2025 12:13:07 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 424
+[06-Jan-2025 12:13:07 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 912
+[06-Jan-2025 12:13:07 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 913
+[06-Jan-2025 12:13:07 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 914
+[06-Jan-2025 12:13:07 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 912
+[06-Jan-2025 12:13:07 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 913
+[06-Jan-2025 12:13:07 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 914
+[06-Jan-2025 12:13:07 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 912
+[06-Jan-2025 12:13:07 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 913
+[06-Jan-2025 12:13:07 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 914
+[06-Jan-2025 12:13:07 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 1006
+[06-Jan-2025 12:13:07 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 1007
+[06-Jan-2025 12:13:07 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 1008
+[06-Jan-2025 12:13:07 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 1006
+[06-Jan-2025 12:13:07 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 1007
+[06-Jan-2025 12:13:07 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 1008
+[06-Jan-2025 12:13:07 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 1006
+[06-Jan-2025 12:13:07 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 1007
+[06-Jan-2025 12:13:07 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 1008
+[07-Jan-2025 19:30:43 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 422
+[07-Jan-2025 19:30:43 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 423
+[07-Jan-2025 19:30:43 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 424
+[07-Jan-2025 19:30:43 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 422
+[07-Jan-2025 19:30:43 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 423
+[07-Jan-2025 19:30:43 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 424
+[07-Jan-2025 19:30:43 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 422
+[07-Jan-2025 19:30:43 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 423
+[07-Jan-2025 19:30:43 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 424
+[07-Jan-2025 19:30:43 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 912
+[07-Jan-2025 19:30:43 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 913
+[07-Jan-2025 19:30:43 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 914
+[07-Jan-2025 19:30:43 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 912
+[07-Jan-2025 19:30:43 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 913
+[07-Jan-2025 19:30:43 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 914
+[07-Jan-2025 19:30:43 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 912
+[07-Jan-2025 19:30:43 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 913
+[07-Jan-2025 19:30:43 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 914
+[07-Jan-2025 19:30:43 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 1006
+[07-Jan-2025 19:30:43 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 1007
+[07-Jan-2025 19:30:43 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 1008
+[07-Jan-2025 19:30:43 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 1006
+[07-Jan-2025 19:30:43 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 1007
+[07-Jan-2025 19:30:43 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 1008
+[07-Jan-2025 19:30:43 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 1006
+[07-Jan-2025 19:30:43 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 1007
+[07-Jan-2025 19:30:43 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 1008
+[07-Jan-2025 22:39:54 UTC] PHP Warning:  Undefined array key "username" in /home/nexustr2/public_html/client/profile/index.php on line 25
+[07-Jan-2025 22:39:59 UTC] PHP Warning:  Undefined array key "username" in /home/nexustr2/public_html/client/profile/index.php on line 25
+[07-Jan-2025 22:39:59 UTC] PHP Warning:  Undefined array key "username" in /home/nexustr2/public_html/client/profile/index.php on line 25
+[07-Jan-2025 22:39:59 UTC] PHP Warning:  Undefined array key "username" in /home/nexustr2/public_html/client/profile/index.php on line 25
+[07-Jan-2025 22:40:06 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 422
+[07-Jan-2025 22:40:06 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 423
+[07-Jan-2025 22:40:06 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 424
+[07-Jan-2025 22:40:06 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 422
+[07-Jan-2025 22:40:06 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 423
+[07-Jan-2025 22:40:06 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 424
+[07-Jan-2025 22:40:06 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 422
+[07-Jan-2025 22:40:06 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 423
+[07-Jan-2025 22:40:06 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 424
+[07-Jan-2025 22:40:06 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 422
+[07-Jan-2025 22:40:06 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 423
+[07-Jan-2025 22:40:06 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 424
+[07-Jan-2025 22:40:06 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 912
+[07-Jan-2025 22:40:06 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 913
+[07-Jan-2025 22:40:06 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 914
+[07-Jan-2025 22:40:06 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 912
+[07-Jan-2025 22:40:06 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 913
+[07-Jan-2025 22:40:06 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 914
+[07-Jan-2025 22:40:06 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 912
+[07-Jan-2025 22:40:06 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 913
+[07-Jan-2025 22:40:06 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 914
+[07-Jan-2025 22:40:06 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 912
+[07-Jan-2025 22:40:06 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 913
+[07-Jan-2025 22:40:06 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 914
+[07-Jan-2025 22:40:06 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 1006
+[07-Jan-2025 22:40:06 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 1007
+[07-Jan-2025 22:40:06 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 1008
+[07-Jan-2025 22:40:06 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 1006
+[07-Jan-2025 22:40:06 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 1007
+[07-Jan-2025 22:40:06 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 1008
+[07-Jan-2025 22:40:06 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 1006
+[07-Jan-2025 22:40:06 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 1007
+[07-Jan-2025 22:40:06 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 1008
+[07-Jan-2025 22:40:06 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 1006
+[07-Jan-2025 22:40:06 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 1007
+[07-Jan-2025 22:40:06 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 1008
+[07-Jan-2025 22:41:26 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 422
+[07-Jan-2025 22:41:26 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 423
+[07-Jan-2025 22:41:26 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 424
+[07-Jan-2025 22:41:26 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 422
+[07-Jan-2025 22:41:26 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 423
+[07-Jan-2025 22:41:26 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 424
+[07-Jan-2025 22:41:26 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 422
+[07-Jan-2025 22:41:26 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 423
+[07-Jan-2025 22:41:26 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 424
+[07-Jan-2025 22:41:26 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 422
+[07-Jan-2025 22:41:26 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 423
+[07-Jan-2025 22:41:26 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 424
+[07-Jan-2025 22:41:26 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 912
+[07-Jan-2025 22:41:26 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 913
+[07-Jan-2025 22:41:26 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 914
+[07-Jan-2025 22:41:26 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 912
+[07-Jan-2025 22:41:26 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 913
+[07-Jan-2025 22:41:26 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 914
+[07-Jan-2025 22:41:26 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 912
+[07-Jan-2025 22:41:26 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 913
+[07-Jan-2025 22:41:26 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 914
+[07-Jan-2025 22:41:26 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 912
+[07-Jan-2025 22:41:26 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 913
+[07-Jan-2025 22:41:26 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 914
+[07-Jan-2025 22:41:26 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 1006
+[07-Jan-2025 22:41:26 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 1007
+[07-Jan-2025 22:41:26 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 1008
+[07-Jan-2025 22:41:26 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 1006
+[07-Jan-2025 22:41:26 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 1007
+[07-Jan-2025 22:41:26 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 1008
+[07-Jan-2025 22:41:26 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 1006
+[07-Jan-2025 22:41:26 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 1007
+[07-Jan-2025 22:41:26 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 1008
+[07-Jan-2025 22:41:26 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 1006
+[07-Jan-2025 22:41:26 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 1007
+[07-Jan-2025 22:41:26 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 1008
+[07-Jan-2025 22:41:53 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 422
+[07-Jan-2025 22:41:53 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 423
+[07-Jan-2025 22:41:53 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 424
+[07-Jan-2025 22:41:53 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 422
+[07-Jan-2025 22:41:53 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 423
+[07-Jan-2025 22:41:53 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 424
+[07-Jan-2025 22:41:53 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 422
+[07-Jan-2025 22:41:53 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 423
+[07-Jan-2025 22:41:53 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 424
+[07-Jan-2025 22:41:53 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 422
+[07-Jan-2025 22:41:53 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 423
+[07-Jan-2025 22:41:53 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 424
+[07-Jan-2025 22:41:53 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 912
+[07-Jan-2025 22:41:53 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 913
+[07-Jan-2025 22:41:53 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 914
+[07-Jan-2025 22:41:53 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 912
+[07-Jan-2025 22:41:53 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 913
+[07-Jan-2025 22:41:53 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 914
+[07-Jan-2025 22:41:53 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 912
+[07-Jan-2025 22:41:53 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 913
+[07-Jan-2025 22:41:53 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 914
+[07-Jan-2025 22:41:53 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 912
+[07-Jan-2025 22:41:53 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 913
+[07-Jan-2025 22:41:53 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 914
+[07-Jan-2025 22:41:53 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 1006
+[07-Jan-2025 22:41:53 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 1007
+[07-Jan-2025 22:41:53 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 1008
+[07-Jan-2025 22:41:53 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 1006
+[07-Jan-2025 22:41:53 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 1007
+[07-Jan-2025 22:41:53 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 1008
+[07-Jan-2025 22:41:53 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 1006
+[07-Jan-2025 22:41:53 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 1007
+[07-Jan-2025 22:41:53 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 1008
+[07-Jan-2025 22:41:53 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 1006
+[07-Jan-2025 22:41:53 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 1007
+[07-Jan-2025 22:41:53 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 1008
+[07-Jan-2025 22:43:22 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 422
+[07-Jan-2025 22:43:22 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 423
+[07-Jan-2025 22:43:22 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 424
+[07-Jan-2025 22:43:22 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 422
+[07-Jan-2025 22:43:22 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 423
+[07-Jan-2025 22:43:22 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 424
+[07-Jan-2025 22:43:22 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 422
+[07-Jan-2025 22:43:22 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 423
+[07-Jan-2025 22:43:22 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 424
+[07-Jan-2025 22:43:22 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 422
+[07-Jan-2025 22:43:22 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 423
+[07-Jan-2025 22:43:22 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 424
+[07-Jan-2025 22:43:22 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 912
+[07-Jan-2025 22:43:22 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 913
+[07-Jan-2025 22:43:22 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 914
+[07-Jan-2025 22:43:22 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 912
+[07-Jan-2025 22:43:22 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 913
+[07-Jan-2025 22:43:22 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 914
+[07-Jan-2025 22:43:22 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 912
+[07-Jan-2025 22:43:22 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 913
+[07-Jan-2025 22:43:22 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 914
+[07-Jan-2025 22:43:22 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 912
+[07-Jan-2025 22:43:22 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 913
+[07-Jan-2025 22:43:22 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 914
+[07-Jan-2025 22:43:22 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 1006
+[07-Jan-2025 22:43:22 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 1007
+[07-Jan-2025 22:43:22 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 1008
+[07-Jan-2025 22:43:22 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 1006
+[07-Jan-2025 22:43:22 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 1007
+[07-Jan-2025 22:43:22 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 1008
+[07-Jan-2025 22:43:22 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 1006
+[07-Jan-2025 22:43:22 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 1007
+[07-Jan-2025 22:43:22 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 1008
+[07-Jan-2025 22:43:22 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 1006
+[07-Jan-2025 22:43:22 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 1007
+[07-Jan-2025 22:43:22 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 1008
+[07-Jan-2025 22:43:26 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 422
+[07-Jan-2025 22:43:26 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 423
+[07-Jan-2025 22:43:26 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 424
+[07-Jan-2025 22:43:26 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 422
+[07-Jan-2025 22:43:26 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 423
+[07-Jan-2025 22:43:26 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 424
+[07-Jan-2025 22:43:26 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 422
+[07-Jan-2025 22:43:26 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 423
+[07-Jan-2025 22:43:26 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 424
+[07-Jan-2025 22:43:26 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 422
+[07-Jan-2025 22:43:26 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 423
+[07-Jan-2025 22:43:26 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 424
+[07-Jan-2025 22:43:26 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 912
+[07-Jan-2025 22:43:26 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 913
+[07-Jan-2025 22:43:26 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 914
+[07-Jan-2025 22:43:26 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 912
+[07-Jan-2025 22:43:26 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 913
+[07-Jan-2025 22:43:26 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 914
+[07-Jan-2025 22:43:26 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 912
+[07-Jan-2025 22:43:26 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 913
+[07-Jan-2025 22:43:26 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 914
+[07-Jan-2025 22:43:26 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 912
+[07-Jan-2025 22:43:26 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 913
+[07-Jan-2025 22:43:26 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 914
+[07-Jan-2025 22:43:26 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 1006
+[07-Jan-2025 22:43:26 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 1007
+[07-Jan-2025 22:43:26 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 1008
+[07-Jan-2025 22:43:26 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 1006
+[07-Jan-2025 22:43:26 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 1007
+[07-Jan-2025 22:43:26 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 1008
+[07-Jan-2025 22:43:26 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 1006
+[07-Jan-2025 22:43:26 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 1007
+[07-Jan-2025 22:43:26 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 1008
+[07-Jan-2025 22:43:26 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 1006
+[07-Jan-2025 22:43:26 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 1007
+[07-Jan-2025 22:43:26 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 1008
+[08-Jan-2025 22:10:12 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 422
+[08-Jan-2025 22:10:12 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 423
+[08-Jan-2025 22:10:12 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 424
+[08-Jan-2025 22:10:12 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 422
+[08-Jan-2025 22:10:12 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 423
+[08-Jan-2025 22:10:12 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 424
+[08-Jan-2025 22:10:12 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 912
+[08-Jan-2025 22:10:12 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 913
+[08-Jan-2025 22:10:12 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 914
+[08-Jan-2025 22:10:12 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 912
+[08-Jan-2025 22:10:12 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 913
+[08-Jan-2025 22:10:12 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 914
+[08-Jan-2025 22:10:12 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 1006
+[08-Jan-2025 22:10:12 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 1007
+[08-Jan-2025 22:10:12 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 1008
+[08-Jan-2025 22:10:12 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 1006
+[08-Jan-2025 22:10:12 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 1007
+[08-Jan-2025 22:10:12 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 1008
+[08-Jan-2025 22:14:23 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 422
+[08-Jan-2025 22:14:23 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 423
+[08-Jan-2025 22:14:23 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 424
+[08-Jan-2025 22:14:23 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 422
+[08-Jan-2025 22:14:23 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 423
+[08-Jan-2025 22:14:23 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 424
+[08-Jan-2025 22:14:23 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 422
+[08-Jan-2025 22:14:23 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 423
+[08-Jan-2025 22:14:23 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 424
+[08-Jan-2025 22:14:23 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 422
+[08-Jan-2025 22:14:23 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 423
+[08-Jan-2025 22:14:23 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 424
+[08-Jan-2025 22:14:23 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 912
+[08-Jan-2025 22:14:23 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 913
+[08-Jan-2025 22:14:23 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 914
+[08-Jan-2025 22:14:23 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 912
+[08-Jan-2025 22:14:23 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 913
+[08-Jan-2025 22:14:23 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 914
+[08-Jan-2025 22:14:23 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 912
+[08-Jan-2025 22:14:23 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 913
+[08-Jan-2025 22:14:23 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 914
+[08-Jan-2025 22:14:23 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 912
+[08-Jan-2025 22:14:23 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 913
+[08-Jan-2025 22:14:23 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 914
+[08-Jan-2025 22:14:23 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 1006
+[08-Jan-2025 22:14:23 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 1007
+[08-Jan-2025 22:14:23 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 1008
+[08-Jan-2025 22:14:23 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 1006
+[08-Jan-2025 22:14:23 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 1007
+[08-Jan-2025 22:14:23 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 1008
+[08-Jan-2025 22:14:23 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 1006
+[08-Jan-2025 22:14:23 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 1007
+[08-Jan-2025 22:14:23 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 1008
+[08-Jan-2025 22:14:23 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 1006
+[08-Jan-2025 22:14:23 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 1007
+[08-Jan-2025 22:14:23 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 1008
+[08-Jan-2025 22:14:31 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 422
+[08-Jan-2025 22:14:31 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 423
+[08-Jan-2025 22:14:31 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 424
+[08-Jan-2025 22:14:31 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 422
+[08-Jan-2025 22:14:31 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 423
+[08-Jan-2025 22:14:31 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 424
+[08-Jan-2025 22:14:31 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 422
+[08-Jan-2025 22:14:31 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 423
+[08-Jan-2025 22:14:31 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 424
+[08-Jan-2025 22:14:31 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 422
+[08-Jan-2025 22:14:31 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 423
+[08-Jan-2025 22:14:31 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 424
+[08-Jan-2025 22:14:31 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 912
+[08-Jan-2025 22:14:31 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 913
+[08-Jan-2025 22:14:31 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 914
+[08-Jan-2025 22:14:31 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 912
+[08-Jan-2025 22:14:31 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 913
+[08-Jan-2025 22:14:31 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 914
+[08-Jan-2025 22:14:31 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 912
+[08-Jan-2025 22:14:31 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 913
+[08-Jan-2025 22:14:31 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 914
+[08-Jan-2025 22:14:31 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 912
+[08-Jan-2025 22:14:31 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 913
+[08-Jan-2025 22:14:31 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 914
+[08-Jan-2025 22:14:31 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 1006
+[08-Jan-2025 22:14:31 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 1007
+[08-Jan-2025 22:14:31 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 1008
+[08-Jan-2025 22:14:31 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 1006
+[08-Jan-2025 22:14:31 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 1007
+[08-Jan-2025 22:14:31 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 1008
+[08-Jan-2025 22:14:31 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 1006
+[08-Jan-2025 22:14:31 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 1007
+[08-Jan-2025 22:14:31 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 1008
+[08-Jan-2025 22:14:31 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 1006
+[08-Jan-2025 22:14:31 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 1007
+[08-Jan-2025 22:14:31 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 1008
+[08-Jan-2025 22:14:34 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 422
+[08-Jan-2025 22:14:34 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 423
+[08-Jan-2025 22:14:34 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 424
+[08-Jan-2025 22:14:34 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 422
+[08-Jan-2025 22:14:34 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 423
+[08-Jan-2025 22:14:34 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 424
+[08-Jan-2025 22:14:34 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 422
+[08-Jan-2025 22:14:34 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 423
+[08-Jan-2025 22:14:34 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 424
+[08-Jan-2025 22:14:34 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 422
+[08-Jan-2025 22:14:34 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 423
+[08-Jan-2025 22:14:34 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 424
+[08-Jan-2025 22:14:34 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 912
+[08-Jan-2025 22:14:34 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 913
+[08-Jan-2025 22:14:34 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 914
+[08-Jan-2025 22:14:34 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 912
+[08-Jan-2025 22:14:34 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 913
+[08-Jan-2025 22:14:34 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 914
+[08-Jan-2025 22:14:34 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 912
+[08-Jan-2025 22:14:34 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 913
+[08-Jan-2025 22:14:34 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 914
+[08-Jan-2025 22:14:34 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 912
+[08-Jan-2025 22:14:34 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 913
+[08-Jan-2025 22:14:34 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 914
+[08-Jan-2025 22:14:34 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 1006
+[08-Jan-2025 22:14:34 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 1007
+[08-Jan-2025 22:14:34 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 1008
+[08-Jan-2025 22:14:34 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 1006
+[08-Jan-2025 22:14:34 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 1007
+[08-Jan-2025 22:14:34 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 1008
+[08-Jan-2025 22:14:34 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 1006
+[08-Jan-2025 22:14:34 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 1007
+[08-Jan-2025 22:14:34 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 1008
+[08-Jan-2025 22:14:34 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 1006
+[08-Jan-2025 22:14:34 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 1007
+[08-Jan-2025 22:14:34 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 1008
+[08-Jan-2025 22:14:43 UTC] PHP Warning:  Undefined array key "username" in /home/nexustr2/public_html/client/profile/index.php on line 25
+[08-Jan-2025 22:14:56 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 422
+[08-Jan-2025 22:14:56 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 423
+[08-Jan-2025 22:14:56 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 424
+[08-Jan-2025 22:14:56 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 422
+[08-Jan-2025 22:14:56 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 423
+[08-Jan-2025 22:14:56 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 424
+[08-Jan-2025 22:14:56 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 422
+[08-Jan-2025 22:14:56 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 423
+[08-Jan-2025 22:14:56 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 424
+[08-Jan-2025 22:14:56 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 422
+[08-Jan-2025 22:14:56 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 423
+[08-Jan-2025 22:14:56 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 424
+[08-Jan-2025 22:14:56 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 912
+[08-Jan-2025 22:14:56 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 913
+[08-Jan-2025 22:14:56 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 914
+[08-Jan-2025 22:14:56 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 912
+[08-Jan-2025 22:14:56 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 913
+[08-Jan-2025 22:14:56 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 914
+[08-Jan-2025 22:14:56 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 912
+[08-Jan-2025 22:14:56 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 913
+[08-Jan-2025 22:14:56 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 914
+[08-Jan-2025 22:14:56 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 912
+[08-Jan-2025 22:14:56 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 913
+[08-Jan-2025 22:14:56 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 914
+[08-Jan-2025 22:14:56 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 1006
+[08-Jan-2025 22:14:56 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 1007
+[08-Jan-2025 22:14:56 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 1008
+[08-Jan-2025 22:14:56 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 1006
+[08-Jan-2025 22:14:56 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 1007
+[08-Jan-2025 22:14:56 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 1008
+[08-Jan-2025 22:14:56 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 1006
+[08-Jan-2025 22:14:56 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 1007
+[08-Jan-2025 22:14:56 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 1008
+[08-Jan-2025 22:14:56 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 1006
+[08-Jan-2025 22:14:56 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 1007
+[08-Jan-2025 22:14:56 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 1008
+[08-Jan-2025 22:16:14 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 422
+[08-Jan-2025 22:16:14 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 423
+[08-Jan-2025 22:16:14 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 424
+[08-Jan-2025 22:16:14 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 422
+[08-Jan-2025 22:16:14 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 423
+[08-Jan-2025 22:16:14 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 424
+[08-Jan-2025 22:16:14 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 422
+[08-Jan-2025 22:16:14 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 423
+[08-Jan-2025 22:16:14 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 424
+[08-Jan-2025 22:16:14 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 422
+[08-Jan-2025 22:16:14 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 423
+[08-Jan-2025 22:16:14 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 424
+[08-Jan-2025 22:16:14 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 912
+[08-Jan-2025 22:16:14 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 913
+[08-Jan-2025 22:16:14 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 914
+[08-Jan-2025 22:16:14 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 912
+[08-Jan-2025 22:16:14 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 913
+[08-Jan-2025 22:16:14 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 914
+[08-Jan-2025 22:16:14 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 912
+[08-Jan-2025 22:16:14 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 913
+[08-Jan-2025 22:16:14 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 914
+[08-Jan-2025 22:16:14 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 912
+[08-Jan-2025 22:16:14 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 913
+[08-Jan-2025 22:16:14 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 914
+[08-Jan-2025 22:16:14 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 1006
+[08-Jan-2025 22:16:14 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 1007
+[08-Jan-2025 22:16:14 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 1008
+[08-Jan-2025 22:16:14 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 1006
+[08-Jan-2025 22:16:14 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 1007
+[08-Jan-2025 22:16:14 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 1008
+[08-Jan-2025 22:16:14 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 1006
+[08-Jan-2025 22:16:14 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 1007
+[08-Jan-2025 22:16:14 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 1008
+[08-Jan-2025 22:16:14 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 1006
+[08-Jan-2025 22:16:14 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 1007
+[08-Jan-2025 22:16:14 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 1008
+[08-Jan-2025 22:20:19 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 422
+[08-Jan-2025 22:20:19 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 423
+[08-Jan-2025 22:20:19 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 424
+[08-Jan-2025 22:20:19 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 422
+[08-Jan-2025 22:20:19 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 423
+[08-Jan-2025 22:20:19 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 424
+[08-Jan-2025 22:20:19 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 422
+[08-Jan-2025 22:20:19 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 423
+[08-Jan-2025 22:20:19 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 424
+[08-Jan-2025 22:20:19 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 422
+[08-Jan-2025 22:20:19 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 423
+[08-Jan-2025 22:20:19 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 424
+[08-Jan-2025 22:20:19 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 912
+[08-Jan-2025 22:20:19 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 913
+[08-Jan-2025 22:20:19 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 914
+[08-Jan-2025 22:20:19 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 912
+[08-Jan-2025 22:20:19 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 913
+[08-Jan-2025 22:20:19 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 914
+[08-Jan-2025 22:20:19 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 912
+[08-Jan-2025 22:20:19 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 913
+[08-Jan-2025 22:20:19 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 914
+[08-Jan-2025 22:20:19 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 912
+[08-Jan-2025 22:20:19 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 913
+[08-Jan-2025 22:20:19 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 914
+[08-Jan-2025 22:20:19 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 1006
+[08-Jan-2025 22:20:19 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 1007
+[08-Jan-2025 22:20:19 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 1008
+[08-Jan-2025 22:20:19 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 1006
+[08-Jan-2025 22:20:19 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 1007
+[08-Jan-2025 22:20:19 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 1008
+[08-Jan-2025 22:20:19 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 1006
+[08-Jan-2025 22:20:19 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 1007
+[08-Jan-2025 22:20:19 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 1008
+[08-Jan-2025 22:20:19 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 1006
+[08-Jan-2025 22:20:19 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 1007
+[08-Jan-2025 22:20:19 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 1008
+[08-Jan-2025 22:21:13 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 422
+[08-Jan-2025 22:21:13 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 423
+[08-Jan-2025 22:21:13 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 424
+[08-Jan-2025 22:21:13 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 422
+[08-Jan-2025 22:21:13 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 423
+[08-Jan-2025 22:21:13 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 424
+[08-Jan-2025 22:21:13 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 422
+[08-Jan-2025 22:21:13 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 423
+[08-Jan-2025 22:21:13 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 424
+[08-Jan-2025 22:21:13 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 422
+[08-Jan-2025 22:21:13 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 423
+[08-Jan-2025 22:21:13 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 424
+[08-Jan-2025 22:21:13 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 912
+[08-Jan-2025 22:21:13 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 913
+[08-Jan-2025 22:21:13 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 914
+[08-Jan-2025 22:21:13 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 912
+[08-Jan-2025 22:21:13 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 913
+[08-Jan-2025 22:21:13 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 914
+[08-Jan-2025 22:21:13 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 912
+[08-Jan-2025 22:21:13 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 913
+[08-Jan-2025 22:21:13 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 914
+[08-Jan-2025 22:21:13 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 912
+[08-Jan-2025 22:21:13 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 913
+[08-Jan-2025 22:21:13 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 914
+[08-Jan-2025 22:21:13 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 1006
+[08-Jan-2025 22:21:13 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 1007
+[08-Jan-2025 22:21:13 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 1008
+[08-Jan-2025 22:21:13 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 1006
+[08-Jan-2025 22:21:13 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 1007
+[08-Jan-2025 22:21:13 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 1008
+[08-Jan-2025 22:21:13 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 1006
+[08-Jan-2025 22:21:13 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 1007
+[08-Jan-2025 22:21:13 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 1008
+[08-Jan-2025 22:21:13 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 1006
+[08-Jan-2025 22:21:13 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 1007
+[08-Jan-2025 22:21:13 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 1008
+[08-Jan-2025 22:24:17 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 422
+[08-Jan-2025 22:24:17 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 423
+[08-Jan-2025 22:24:17 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 424
+[08-Jan-2025 22:24:17 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 422
+[08-Jan-2025 22:24:17 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 423
+[08-Jan-2025 22:24:17 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 424
+[08-Jan-2025 22:24:17 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 422
+[08-Jan-2025 22:24:17 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 423
+[08-Jan-2025 22:24:17 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 424
+[08-Jan-2025 22:24:17 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 422
+[08-Jan-2025 22:24:17 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 423
+[08-Jan-2025 22:24:17 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 424
+[08-Jan-2025 22:24:17 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 912
+[08-Jan-2025 22:24:17 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 913
+[08-Jan-2025 22:24:17 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 914
+[08-Jan-2025 22:24:17 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 912
+[08-Jan-2025 22:24:17 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 913
+[08-Jan-2025 22:24:17 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 914
+[08-Jan-2025 22:24:17 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 912
+[08-Jan-2025 22:24:17 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 913
+[08-Jan-2025 22:24:17 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 914
+[08-Jan-2025 22:24:17 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 912
+[08-Jan-2025 22:24:17 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 913
+[08-Jan-2025 22:24:17 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 914
+[08-Jan-2025 22:24:17 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 1006
+[08-Jan-2025 22:24:17 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 1007
+[08-Jan-2025 22:24:17 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 1008
+[08-Jan-2025 22:24:17 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 1006
+[08-Jan-2025 22:24:17 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 1007
+[08-Jan-2025 22:24:17 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 1008
+[08-Jan-2025 22:24:17 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 1006
+[08-Jan-2025 22:24:17 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 1007
+[08-Jan-2025 22:24:17 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 1008
+[08-Jan-2025 22:24:17 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 1006
+[08-Jan-2025 22:24:17 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 1007
+[08-Jan-2025 22:24:17 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 1008
+[08-Jan-2025 22:26:31 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 422
+[08-Jan-2025 22:26:31 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 423
+[08-Jan-2025 22:26:31 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 424
+[08-Jan-2025 22:26:31 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 422
+[08-Jan-2025 22:26:31 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 423
+[08-Jan-2025 22:26:31 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 424
+[08-Jan-2025 22:26:31 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 422
+[08-Jan-2025 22:26:31 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 423
+[08-Jan-2025 22:26:31 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 424
+[08-Jan-2025 22:26:31 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 422
+[08-Jan-2025 22:26:31 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 423
+[08-Jan-2025 22:26:31 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 424
+[08-Jan-2025 22:26:31 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 912
+[08-Jan-2025 22:26:31 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 913
+[08-Jan-2025 22:26:31 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 914
+[08-Jan-2025 22:26:31 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 912
+[08-Jan-2025 22:26:31 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 913
+[08-Jan-2025 22:26:31 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 914
+[08-Jan-2025 22:26:31 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 912
+[08-Jan-2025 22:26:31 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 913
+[08-Jan-2025 22:26:31 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 914
+[08-Jan-2025 22:26:31 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 912
+[08-Jan-2025 22:26:31 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 913
+[08-Jan-2025 22:26:31 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 914
+[08-Jan-2025 22:26:31 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 1006
+[08-Jan-2025 22:26:31 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 1007
+[08-Jan-2025 22:26:31 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 1008
+[08-Jan-2025 22:26:31 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 1006
+[08-Jan-2025 22:26:31 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 1007
+[08-Jan-2025 22:26:31 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 1008
+[08-Jan-2025 22:26:31 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 1006
+[08-Jan-2025 22:26:31 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 1007
+[08-Jan-2025 22:26:31 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 1008
+[08-Jan-2025 22:26:31 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 1006
+[08-Jan-2025 22:26:31 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 1007
+[08-Jan-2025 22:26:31 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 1008
+[08-Jan-2025 22:27:46 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 422
+[08-Jan-2025 22:27:46 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 423
+[08-Jan-2025 22:27:46 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 424
+[08-Jan-2025 22:27:46 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 422
+[08-Jan-2025 22:27:46 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 423
+[08-Jan-2025 22:27:46 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 424
+[08-Jan-2025 22:27:46 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 422
+[08-Jan-2025 22:27:46 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 423
+[08-Jan-2025 22:27:46 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 424
+[08-Jan-2025 22:27:46 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 422
+[08-Jan-2025 22:27:46 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 423
+[08-Jan-2025 22:27:46 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 424
+[08-Jan-2025 22:27:46 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 912
+[08-Jan-2025 22:27:46 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 913
+[08-Jan-2025 22:27:46 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 914
+[08-Jan-2025 22:27:46 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 912
+[08-Jan-2025 22:27:46 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 913
+[08-Jan-2025 22:27:46 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 914
+[08-Jan-2025 22:27:46 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 912
+[08-Jan-2025 22:27:46 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 913
+[08-Jan-2025 22:27:46 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 914
+[08-Jan-2025 22:27:46 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 912
+[08-Jan-2025 22:27:46 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 913
+[08-Jan-2025 22:27:46 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 914
+[08-Jan-2025 22:27:46 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 1006
+[08-Jan-2025 22:27:46 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 1007
+[08-Jan-2025 22:27:46 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 1008
+[08-Jan-2025 22:27:46 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 1006
+[08-Jan-2025 22:27:46 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 1007
+[08-Jan-2025 22:27:46 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 1008
+[08-Jan-2025 22:27:46 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 1006
+[08-Jan-2025 22:27:46 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 1007
+[08-Jan-2025 22:27:46 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 1008
+[08-Jan-2025 22:27:46 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 1006
+[08-Jan-2025 22:27:46 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 1007
+[08-Jan-2025 22:27:46 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 1008
+[08-Jan-2025 22:28:14 UTC] PHP Warning:  Undefined array key "username" in /home/nexustr2/public_html/client/profile/index.php on line 25
+[08-Jan-2025 22:32:27 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 422
+[08-Jan-2025 22:32:27 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 423
+[08-Jan-2025 22:32:27 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 424
+[08-Jan-2025 22:32:27 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 422
+[08-Jan-2025 22:32:27 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 423
+[08-Jan-2025 22:32:27 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 424
+[08-Jan-2025 22:32:27 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 422
+[08-Jan-2025 22:32:27 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 423
+[08-Jan-2025 22:32:27 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 424
+[08-Jan-2025 22:32:27 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 422
+[08-Jan-2025 22:32:27 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 423
+[08-Jan-2025 22:32:27 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 424
+[08-Jan-2025 22:32:27 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 912
+[08-Jan-2025 22:32:27 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 913
+[08-Jan-2025 22:32:27 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 914
+[08-Jan-2025 22:32:27 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 912
+[08-Jan-2025 22:32:27 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 913
+[08-Jan-2025 22:32:27 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 914
+[08-Jan-2025 22:32:27 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 912
+[08-Jan-2025 22:32:27 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 913
+[08-Jan-2025 22:32:27 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 914
+[08-Jan-2025 22:32:27 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 912
+[08-Jan-2025 22:32:27 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 913
+[08-Jan-2025 22:32:27 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 914
+[08-Jan-2025 22:32:27 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 1006
+[08-Jan-2025 22:32:27 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 1007
+[08-Jan-2025 22:32:27 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 1008
+[08-Jan-2025 22:32:27 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 1006
+[08-Jan-2025 22:32:27 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 1007
+[08-Jan-2025 22:32:27 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 1008
+[08-Jan-2025 22:32:27 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 1006
+[08-Jan-2025 22:32:27 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 1007
+[08-Jan-2025 22:32:27 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 1008
+[08-Jan-2025 22:32:27 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 1006
+[08-Jan-2025 22:32:27 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 1007
+[08-Jan-2025 22:32:27 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 1008
+[08-Jan-2025 22:35:02 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 422
+[08-Jan-2025 22:35:02 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 423
+[08-Jan-2025 22:35:02 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 424
+[08-Jan-2025 22:35:02 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 422
+[08-Jan-2025 22:35:02 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 423
+[08-Jan-2025 22:35:02 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 424
+[08-Jan-2025 22:35:02 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 422
+[08-Jan-2025 22:35:02 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 423
+[08-Jan-2025 22:35:02 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 424
+[08-Jan-2025 22:35:02 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 422
+[08-Jan-2025 22:35:02 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 423
+[08-Jan-2025 22:35:02 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 424
+[08-Jan-2025 22:35:02 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 912
+[08-Jan-2025 22:35:02 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 913
+[08-Jan-2025 22:35:02 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 914
+[08-Jan-2025 22:35:02 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 912
+[08-Jan-2025 22:35:02 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 913
+[08-Jan-2025 22:35:02 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 914
+[08-Jan-2025 22:35:02 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 912
+[08-Jan-2025 22:35:02 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 913
+[08-Jan-2025 22:35:02 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 914
+[08-Jan-2025 22:35:02 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 912
+[08-Jan-2025 22:35:02 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 913
+[08-Jan-2025 22:35:02 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 914
+[08-Jan-2025 22:35:02 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 1006
+[08-Jan-2025 22:35:02 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 1007
+[08-Jan-2025 22:35:02 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 1008
+[08-Jan-2025 22:35:02 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 1006
+[08-Jan-2025 22:35:02 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 1007
+[08-Jan-2025 22:35:02 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 1008
+[08-Jan-2025 22:35:02 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 1006
+[08-Jan-2025 22:35:02 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 1007
+[08-Jan-2025 22:35:02 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 1008
+[08-Jan-2025 22:35:02 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 1006
+[08-Jan-2025 22:35:02 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 1007
+[08-Jan-2025 22:35:02 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 1008
+[08-Jan-2025 22:36:48 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 422
+[08-Jan-2025 22:36:48 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 423
+[08-Jan-2025 22:36:48 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 424
+[08-Jan-2025 22:36:48 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 422
+[08-Jan-2025 22:36:48 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 423
+[08-Jan-2025 22:36:48 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 424
+[08-Jan-2025 22:36:48 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 422
+[08-Jan-2025 22:36:48 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 423
+[08-Jan-2025 22:36:48 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 424
+[08-Jan-2025 22:36:48 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 422
+[08-Jan-2025 22:36:48 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 423
+[08-Jan-2025 22:36:48 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 424
+[08-Jan-2025 22:36:48 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 912
+[08-Jan-2025 22:36:48 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 913
+[08-Jan-2025 22:36:48 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 914
+[08-Jan-2025 22:36:48 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 912
+[08-Jan-2025 22:36:48 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 913
+[08-Jan-2025 22:36:48 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 914
+[08-Jan-2025 22:36:48 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 912
+[08-Jan-2025 22:36:48 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 913
+[08-Jan-2025 22:36:48 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 914
+[08-Jan-2025 22:36:48 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 912
+[08-Jan-2025 22:36:48 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 913
+[08-Jan-2025 22:36:48 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 914
+[08-Jan-2025 22:36:48 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 1006
+[08-Jan-2025 22:36:48 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 1007
+[08-Jan-2025 22:36:48 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 1008
+[08-Jan-2025 22:36:48 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 1006
+[08-Jan-2025 22:36:48 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 1007
+[08-Jan-2025 22:36:48 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 1008
+[08-Jan-2025 22:36:48 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 1006
+[08-Jan-2025 22:36:48 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 1007
+[08-Jan-2025 22:36:48 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 1008
+[08-Jan-2025 22:36:48 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 1006
+[08-Jan-2025 22:36:48 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 1007
+[08-Jan-2025 22:36:48 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 1008
+[08-Jan-2025 22:54:12 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 422
+[08-Jan-2025 22:54:12 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 423
+[08-Jan-2025 22:54:12 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 424
+[08-Jan-2025 22:54:12 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 422
+[08-Jan-2025 22:54:12 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 423
+[08-Jan-2025 22:54:12 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 424
+[08-Jan-2025 22:54:12 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 422
+[08-Jan-2025 22:54:12 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 423
+[08-Jan-2025 22:54:12 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 424
+[08-Jan-2025 22:54:12 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 422
+[08-Jan-2025 22:54:12 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 423
+[08-Jan-2025 22:54:12 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 424
+[08-Jan-2025 22:54:12 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 912
+[08-Jan-2025 22:54:12 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 913
+[08-Jan-2025 22:54:12 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 914
+[08-Jan-2025 22:54:12 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 912
+[08-Jan-2025 22:54:12 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 913
+[08-Jan-2025 22:54:12 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 914
+[08-Jan-2025 22:54:12 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 912
+[08-Jan-2025 22:54:12 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 913
+[08-Jan-2025 22:54:12 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 914
+[08-Jan-2025 22:54:12 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 912
+[08-Jan-2025 22:54:12 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 913
+[08-Jan-2025 22:54:12 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 914
+[08-Jan-2025 22:54:12 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 1006
+[08-Jan-2025 22:54:12 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 1007
+[08-Jan-2025 22:54:12 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 1008
+[08-Jan-2025 22:54:12 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 1006
+[08-Jan-2025 22:54:12 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 1007
+[08-Jan-2025 22:54:12 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 1008
+[08-Jan-2025 22:54:12 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 1006
+[08-Jan-2025 22:54:12 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 1007
+[08-Jan-2025 22:54:12 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 1008
+[08-Jan-2025 22:54:12 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 1006
+[08-Jan-2025 22:54:12 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 1007
+[08-Jan-2025 22:54:12 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 1008
+[14-Jan-2025 16:28:28 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 422
+[14-Jan-2025 16:28:28 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 423
+[14-Jan-2025 16:28:28 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 424
+[14-Jan-2025 16:28:28 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 422
+[14-Jan-2025 16:28:28 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 423
+[14-Jan-2025 16:28:28 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 424
+[14-Jan-2025 16:28:28 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 422
+[14-Jan-2025 16:28:28 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 423
+[14-Jan-2025 16:28:28 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 424
+[14-Jan-2025 16:28:28 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 422
+[14-Jan-2025 16:28:28 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 423
+[14-Jan-2025 16:28:28 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 424
+[14-Jan-2025 16:28:28 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 912
+[14-Jan-2025 16:28:28 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 913
+[14-Jan-2025 16:28:28 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 914
+[14-Jan-2025 16:28:28 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 912
+[14-Jan-2025 16:28:28 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 913
+[14-Jan-2025 16:28:28 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 914
+[14-Jan-2025 16:28:28 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 912
+[14-Jan-2025 16:28:28 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 913
+[14-Jan-2025 16:28:28 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 914
+[14-Jan-2025 16:28:28 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 912
+[14-Jan-2025 16:28:28 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 913
+[14-Jan-2025 16:28:28 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 914
+[14-Jan-2025 16:28:28 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 1006
+[14-Jan-2025 16:28:28 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 1007
+[14-Jan-2025 16:28:28 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 1008
+[14-Jan-2025 16:28:28 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 1006
+[14-Jan-2025 16:28:28 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 1007
+[14-Jan-2025 16:28:28 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 1008
+[14-Jan-2025 16:28:28 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 1006
+[14-Jan-2025 16:28:28 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 1007
+[14-Jan-2025 16:28:28 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 1008
+[14-Jan-2025 16:28:28 UTC] PHP Warning:  Undefined array key "transaction_type" in /home/nexustr2/public_html/client/profile/index.php on line 1006
+[14-Jan-2025 16:28:28 UTC] PHP Warning:  Undefined array key "balance" in /home/nexustr2/public_html/client/profile/index.php on line 1007
+[14-Jan-2025 16:28:28 UTC] PHP Warning:  Undefined array key "created_at" in /home/nexustr2/public_html/client/profile/index.php on line 1008
+[14-Jan-2025 16:28:33 UTC] PHP Warning:  Undefined array key "username" in /home/nexustr2/public_html/client/profile/index.php on line 25
+[14-Jan-2025 16:28:33 UTC] PHP Warning:  Undefined array key "username" in /home/nexustr2/public_html/client/profile/index.php on line 25
+[14-Jan-2025 16:28:33 UTC] PHP Warning:  Undefined array key "username" in /home/nexustr2/public_html/client/profile/index.php on line 25

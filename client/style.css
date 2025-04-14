@@ -1,0 +1,79 @@
+body {
+    background-color: #0d1117;
+    color: #c9d1d9;
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 20px;
+}
+
+.container {
+    width: 90%;
+    max-width: 1000px;
+    background-color: #161b22;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+}
+
+h1 {
+    text-align: center;
+    color: #58a6ff;
+}
+
+#tradingview_widget {
+    width: 100%;
+    height: 400px;
+    margin-bottom: 20px;
+    border: 1px solid #30363d;
+    border-radius: 10px;
+}
+
+.trading-panel {
+    background-color: #21262d;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+}
+
+h2 {
+    color: #58a6ff;
+    text-align: center;
+}
+
+input, select, button {
+    padding: 12px;
+    margin: 10px 0;
+    border-radius: 5px;
+    border: 1px solid #30363d;
+    font-size: 16px;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+input, select {
+    background-color: #0d1117;
+    color: #c9d1d9;
+}
+
+button {
+    background-color: #238636;
+    color: #ffffff;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+button:hover {
+    background-color: #2ea043;
+}
+
+#tradeResult {
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #0d1117;
+    border: 1px solid #30363d;
+    border-radius: 5px;
+    text-align: center;
+}
