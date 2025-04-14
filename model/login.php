@@ -41,7 +41,7 @@ function login($email, $password) {
         $_SESSION['user_id'] = $user['id'];
         $_SESSION['username'] = $user['username'];
         $_SESSION['logged_in'] = true;
-        echo json_encode(['message' => 'Login successful!', 'success' => true, 'redirect' => 'client/index.php']);
+        echo json_encode(['message' => 'Login successful!', 'success' => true, 'redirect' => 'dashboard/index.html']);
     } catch (PDOException $e) {
         error_log("Login error: " . $e->getMessage());
         echo json_encode(['message' => 'Database error. Please try again.', 'success' => false]);
