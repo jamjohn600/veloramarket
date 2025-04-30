@@ -53,7 +53,7 @@ require_once 'model/my_fns.php'; // Starts session
       <div class="row align-items-center justify-content-between">
         <div class="col-lg-2 col-sm-5 col-md-4 col-6">
           <div class="logo">
-            <a href="index.html"><img src="assets/img/logo/logo.png" alt="TradePro Logo"></a>
+            <a href="index.html"><img src="assets/img/logo/veloramrk-logo.png" alt="TradePro Logo"></a>
           </div>
         </div>
         <div class="col-lg-10 p-lg-0 d-none d-lg-flex align-items-center justify-content-end">
@@ -229,7 +229,7 @@ require_once 'model/my_fns.php'; // Starts session
           <div class="col-xl-3 col-lg-4 col-md-6 col-12">
             <div class="single-footer-widget wow fadeInLeft">
               <div class="about-us-widget">
-                <a href="index.html" class="footer-logo d-block"><img src="assets/img/logo/logo.png" alt="TradePro"></a>
+                <a href="index.html" class="footer-logo d-block"><img src="assets/img/logo/veloramrk-logo.png" alt="TradePro"></a>
                 <p>Lorem ipsum dolor sit amet, cons atetur adipisicing elit. Laborum en doloremque nostrum ipsum dolor
                   sit amet quas nulla in ab odit eligendi DiscreteDev!</p>
               </div>
